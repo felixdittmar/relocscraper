@@ -1,31 +1,41 @@
 {
-  "lastUpdated": "2026-11-08T15:38:30.844Z",
+  "lastUpdated": "2026-11-08T15:52:19.310Z",
   "totalDeals": 943,
   "stats": {
-    "indiecampers": {
-      "name": "Indie Campers",
-      "count": 19,
-      "status": "ok"
+    "movacar": {
+      "name": "Movacar",
+      "count": 666,
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
     },
     "imoova": {
       "name": "Imoova",
       "count": 36,
-      "status": "ok"
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
+    },
+    "indiecampers": {
+      "name": "Indie Campers",
+      "count": 19,
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
     },
     "ugoki": {
       "name": "Ugoki (FlipCar)",
       "count": 103,
-      "status": "ok"
-    },
-    "movacar": {
-      "name": "Movacar",
-      "count": 666,
-      "status": "ok"
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
     },
     "driiveme": {
       "name": "Driiveme",
       "count": 147,
-      "status": "ok"
+      "status": "error",
+      "error": "Driiveme network request failed across all 4 locales",
+      "cachedFallback": true
     }
   },
   "deals": [

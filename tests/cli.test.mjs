@@ -63,4 +63,11 @@ const watchOut = runCli("watch --once");
 assert.ok(watchOut.includes("Relocation Watcher Mode"), "Watch output missing header");
 console.log("  ✔ CLI watch mode works");
 
+// 9. Route
+const routeOut = runCli("route Berlin Hamburg");
+assert.ok(routeOut.includes("HYBRID ROUTE PLANNER"), "Route output missing planner header");
+assert.ok(routeOut.includes("D-Ticket Baseline"), "Route output missing baseline");
+assert.ok(routeOut.includes("Option #1"), "Route output missing option #1");
+console.log("  ✔ CLI route command works");
+
 console.log("\n✔ All CLI Integration Tests Passed!");

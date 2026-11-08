@@ -14,8 +14,10 @@ import {
   formatDealDetail,
   formatStats,
   exportToCsv,
-  exportToMarkdown
+  exportToMarkdown,
+  formatRouteResults
 } from "../lib/formatter.mjs";
+import { findHybridRoutes } from "../lib/router.mjs";
 import fs from "fs/promises";
 import path from "path";
 
@@ -321,6 +323,41 @@ async function main() {
       break;
     }
 
+    case "route": {
+      const fromCity = flags.from || flags.origin || (args[1] && !args[1].startsWith("--") ? args[1] : null);
+      const toCity = flags.to || flags.dest || flags.destination || (args[2] && !args[2].startsWith("--") ? args[2] : null);
+
+      if (!fromCity || !toCity) {
+        console.error(colors.red("\nError: Please specify origin and destination cities."));
+        console.log(colors.dim("Usage:   reloc route --from <origin> --to <destination>"));
+        console.log(colors.dim("Example: reloc route Berlin Hamburg"));
+        console.log(colors.dim("Example: reloc route --from Frankfurt --to Berlin --fuel-only\n"));
+        process.exit(1);
+      }
+
+      let data = await loadRelocations();
+      let deals = data.deals || [];
+      if (deals.length === 0) {
+        console.log(colors.yellow("No saved deals found. Running automatic scan first..."));
+        const scanRes = await engine.scanAll();
+        deals = scanRes.deals;
+      }
+
+      const routeResult = findHybridRoutes(deals, fromCity, toCity, {
+        maxFeederKm: flags["max-feeder"] ? parseInt(flags["max-feeder"], 10) : 180,
+        fuelOnly: Boolean(flags["fuel-only"] || flags.fuel),
+        date: flags.date,
+        onlyFaster: !flags.all
+      });
+
+      console.log(
+        formatRouteResults(routeResult, {
+          limit: flags.limit ? parseInt(flags.limit, 10) : 5
+        })
+      );
+      break;
+    }
+
     case "help":
     default: {
       console.log(`
@@ -332,6 +369,7 @@ ${colors.bold("SUPPORTED PROVIDERS & FLEETS:")}
   • ${colors.blue("movacar.de")}         (1€ car & van transfers across Germany & Europe; includes Carl und Carla fleet)
   • ${colors.cyan("driiveme.com")}       (1€ one-way car & van rentals in France, Germany, Spain, UK, etc.)
   • ${colors.magenta("imoova.com")}         (1€ campervan relocations in Europe & UK)
+  • ${colors.green("ugoki.com")}          (1€ car & van transfers across Germany; includes MILES with free fuel)
 
 ${colors.bold("USAGE:")}
   reloc <command> [options]
@@ -341,6 +379,7 @@ ${colors.bold("COMMANDS (MODES):")}
   ${colors.bold("display | list")}         Show relocation deals in an ANSI table
   ${colors.bold("filter")}                 Filter listings by route, provider, vehicle, seats, price
   ${colors.bold("sort")}                   Sort listings by date, price, duration, seats, origin
+  ${colors.bold("route")}                  Hybrid D-Ticket + 1€ relocation route optimizer (finds faster trips)
   ${colors.bold("detail <id>")}            Show complete specifications & station details for an offer
   ${colors.bold("stats")}                  Show aggregate market intelligence and corridor stats
   ${colors.bold("watch")}                  Monitor for new deals and notify on route changes
@@ -348,33 +387,35 @@ ${colors.bold("COMMANDS (MODES):")}
   ${colors.bold("book <id>")}              Show booking checklist and direct booking URL
 
 ${colors.bold("OPTIONS & FILTER FLAGS:")}
-  --origin <city|country>   Filter departure city or country (e.g. "Berlin", "Germany", "FR")
-  --destination <city|country> Filter destination city or country (e.g. "Spain", "Lisbon")
-  --provider <name>         Filter by provider (indiecampers, movacar, driiveme, imoova, carlundcarla)
+  --from / --origin <city>  Trip origin (e.g. "Berlin", "Frankfurt")
+  --to / --destination <city> Trip destination (e.g. "Hamburg", "Köln")
+  --max-feeder <km>         Max distance for D-Ticket train feeder leg (default: 180 km)
+  --fuel / --fuel-only      Only show routes with fuel included (e.g. Ugoki/MILES)
+  --date <YYYY-MM-DD>       Filter relocations available on a specific date
+  --all                     Show hybrid combinations even if slower than direct train
+  --provider <name>         Filter by provider (indiecampers, movacar, driiveme, imoova, ugoki)
   --vehicle <type>          Filter by type: campervan | van | car | motorhome
   --seats <min>             Minimum passenger seats (e.g. 2, 4, 9)
   --max-price <eur>         Maximum price in EUR (e.g. 1.0)
   --free                    Show only 0.00 € free relocations
   --cross-border            Show only routes crossing international borders
-  --fuel                    Filter routes with fuel allowance / reimbursement
-  --ferry                   Filter routes with ferry reimbursement
   --sort <field>            Sort by: price | date | duration | seats | origin | destination
   --order <asc|desc>        Sort order (default: asc)
-  --limit <n>               Max rows to display (default: 50)
+  --limit <n>               Max items to display (default: 5 for route, 50 for table)
   --format <json|csv|md>    Export format (default: json)
   --output <file>           Export destination file path
 
 ${colors.bold("EXAMPLES:")}
+  reloc route Berlin Hamburg
+  reloc route --from Frankfurt --to Berlin --fuel-only
+  reloc route Potsdam Köln --max-feeder 200
   reloc scan
   reloc display --origin Germany
   reloc filter --origin Berlin --destination Munich
   reloc filter --vehicle campervan --cross-border
-  reloc filter --free
   reloc sort price asc
   reloc stats
-  reloc watch --once
-  reloc export --format md --output data/relocations.md
-  reloc detail movacar_260109_7190_57624
+  reloc detail ugoki_536104
 `);
       break;
     }

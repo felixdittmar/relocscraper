@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-08T15:38:59.503Z",
+  "lastUpdated": "2026-11-08T15:52:54.433Z",
   "totalDeals": 943,
   "stats": {
-    "movacar": {
-      "name": "Movacar",
-      "count": 666,
+    "imoova": {
+      "name": "Imoova",
+      "count": 36,
       "status": "error",
       "error": "fetch failed",
       "cachedFallback": true
     },
-    "imoova": {
-      "name": "Imoova",
-      "count": 36,
+    "movacar": {
+      "name": "Movacar",
+      "count": 666,
       "status": "error",
       "error": "fetch failed",
       "cachedFallback": true

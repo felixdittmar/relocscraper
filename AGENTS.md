@@ -21,6 +21,7 @@ When interacting with a user or executing workflows, the agent routes requests a
 | "Show me deals", "List relocations", "Display table" | `display` | `modes/display.md` | `reloc display [--limit N]` |
 | "Find campers in Portugal", "Filter by Germany", "4 seats" | `filter` | `modes/filter.md` | `reloc filter [flags]` |
 | "Cheapest trips first", "Longest trips", "Sort by price" | `sort` | `modes/sort.md` | `reloc sort <field> [order]` |
+| "Calculate route", "D-Ticket faster route", "Route from A to B" | `route` | `modes/route.md` | `reloc route <from> <to>` |
 | "Inspect deal #123", "Show pickup address and specs" | `detail` | `modes/detail.md` | `reloc detail <id>` |
 | "Summary of market", "Top routes in Europe", "Stats" | `stats` | `modes/stats.md` | `reloc stats` |
 | "Monitor for new trips", "Alert on new routes" | `watch` | `modes/watch.md` | `reloc watch [--interval N]` |

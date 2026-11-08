@@ -9,6 +9,7 @@ const REPO_ROOT = path.resolve(__dirname, "..");
 const testFiles = [
   "tests/providers.test.mjs",
   "tests/filter-sort.test.mjs",
+  "tests/router.test.mjs",
   "tests/cli.test.mjs"
 ];
 

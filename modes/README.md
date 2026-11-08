@@ -14,6 +14,7 @@ Similar to `career-ops`, each mode file defines one clear workflow (`scan`, `dis
 | `display.md` | `display` | Displays active relocations in formatted ANSI terminal tables | `reloc display` |
 | `filter.md` | `filter` | Multi-criteria filtering (origin, destination, vehicle, seats, price, perks) | `reloc filter` |
 | `sort.md` | `sort` | Multi-field sorting (price, date, duration, seats, route) | `reloc sort` |
+| `route.md` | `route` | Hybrid D-Ticket + 1€ relocation route optimizer (finds faster trips) | `reloc route <from> <to>` |
 | `detail.md` | `detail` | Deep-dive inspection of a specific relocation deal and depot addresses | `reloc detail <id>` |
 | `stats.md` | `stats` | European market intelligence, top corridors, provider share, vehicle breakdown | `reloc stats` |
 | `watch.md` | `watch` | Automated background monitoring with snapshot diffing and alerts | `reloc watch` |
