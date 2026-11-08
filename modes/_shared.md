@@ -7,10 +7,11 @@ This document contains shared constants, data schemas, normalization invariants,
 | Provider | Website | Primary Region | Inventory Focus | Typical Base Rate |
 |---|---|---|---|---|
 | **Indie Campers** | `indiecampers.com` | Pan-European (18+ countries) | Campervans & Pop-up vans (Active Plus, Nomad, Atlas) | €1/day (specials) or up to 80% off |
-| **Movacar** | `movacar.de` / `movacar.com` | Germany & Central Europe | Cars, Transporters, Campervans | €1.00 total |
+| **Movacar** | `movacar.de` / `movacar.com` | Germany & Central Europe | Cars, Transporters, Campervans (incl. Carl und Carla fleet) | €1.00 total |
 | **Driiveme** | `driiveme.com` | France, Germany, Spain, Italy, UK, Portugal | One-way passenger cars, utility vans (6m³-20m³) | €1.00 total |
 | **Imoova** | `imoova.com` | Western & Southern Europe (IT, PT, ES, DE, NL) | Motorhomes & Campervans | €1.00 / day |
-| **Carl und Carla** | `carlundcarla.de` | Germany (50+ cities) | Transporters (Carl), XL-Transporters (Carlos), 9-Seaters (Carla) | 0.00 € (free) to 1.00 € |
+
+> **Note on Carl und Carla (`carlundcarla.de`)**: Carl und Carla does not operate an independent automated 1€ relocation booking platform; their entire 1€ Überführungsfahrten inventory is officially syndicated through Movacar. All Carl und Carla trips are ingested via Movacar and tagged with `fleetPartner: "Carl und Carla"` to avoid duplicate entries while maintaining full searchability via `reloc filter --provider carlundcarla`.
 
 ## Canonical Data Schema (`RelocationDeal`)
 

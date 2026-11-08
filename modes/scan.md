@@ -23,10 +23,11 @@ reloc scan --provider carlundcarla
 - **Data Extracted**: One-way campervan specials (Barcelona, Lisbon, Bilbao, Bologna, Lyon, Milan, Paris, etc.), vehicle models (Nomad, Active Plus, Atlas), dates, maximum nights, and ferry reimbursement benefits.
 - **Syndicated**: Also cross-referenced in Imoova and Movacar feeds where Indie Campers inventory is syndicated.
 
-### 2. Movacar (`movacar.de`)
+### 2. Movacar (`movacar.de`) & Carl und Carla Fleet Syndication
 - **Endpoint**: `https://crowd-api-production-615013621295.europe-west1.run.app/v1/offers`
 - **Parameters**: `pickupDateFrom=YYYY-MM-DD`, `pickupDateTo=YYYY-MM-DD`, `locale=de`
 - **Data Extracted**: Real-time European 1€ inventory, origin/destination stations with exact addresses and postal codes, included free km, excess km rate, vehicle specs, and booking IDs.
+- **Carl und Carla Fleet Deduplication**: Carl und Carla does not operate an independent automated 1€ relocation booking portal; their entire transfer fleet (Transporter "Carl", XL "Carlos", 9-Sitzer "Carla") is published and booked directly through Movacar (`stationCode: carlundcarla*`). The engine automatically tags these offers with `fleetPartner: "Carl und Carla"`. This eliminates duplicate listings while allowing seamless queries via `reloc filter --provider carlundcarla`.
 
 ### 3. Driiveme (`driiveme.com`)
 - **Endpoints**: `https://www.driiveme.com/{locale}/component/transport-list` (`en-GB`, `de-DE`, `fr-FR`, `es-ES`)
@@ -35,12 +36,6 @@ reloc scan --provider carlundcarla
 ### 4. Imoova (`imoova.com`)
 - **Endpoint**: `https://www.imoova.com/relocations/table/europe`
 - **Data Extracted**: Structured table rows containing reference IDs (`RLC...`), departure/arrival depots, date windows, vehicle classification, daily rate (€1), duration, seats, fuel allowance, and ferry reimbursement.
-
-### 5. Carl und Carla (`carlundcarla.de`)
-- **Endpoints**:
-  - Direct campaign: `https://carlundcarla.de/angebote` & `/blog/aktion-kostenfreie-einwegmieten`
-  - Movacar Fleet feed: Automated extraction of CarlundCarla vehicle transfers (`code: carlundcarla*`).
-- **Data Extracted**: Transporter ("Carl"), XL-Transporter ("Carlos"), and 9-seater ("Carla") relocations across 50+ German cities, 0€ base rate campaigns, and 1€ transfers.
 
 ## Persistence & Caching Contract
 

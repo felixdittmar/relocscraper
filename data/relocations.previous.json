@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T11:07:53.351Z",
-  "totalDeals": 314,
+  "lastUpdated": "2026-11-08T11:28:23.653Z",
+  "totalDeals": 227,
   "stats": {
     "imoova": {
       "name": "Imoova",
@@ -20,11 +20,6 @@
     "driiveme": {
       "name": "Driiveme",
       "count": 72,
-      "status": "ok"
-    },
-    "carlundcarla": {
-      "name": "Carl und Carla",
-      "count": 87,
       "status": "ok"
     }
   },
@@ -78,7 +73,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260109",
-      "scrapedAt": "2026-11-08T11:07:51.645Z"
+      "scrapedAt": "2026-11-08T11:28:23.241Z"
     },
     {
       "id": "movacar_260111",
@@ -129,7 +124,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260111",
-      "scrapedAt": "2026-11-08T11:07:51.646Z"
+      "scrapedAt": "2026-11-08T11:28:23.241Z"
     },
     {
       "id": "movacar_260356",
@@ -180,7 +175,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260356",
-      "scrapedAt": "2026-11-08T11:07:51.647Z"
+      "scrapedAt": "2026-11-08T11:28:23.241Z"
     },
     {
       "id": "movacar_257292",
@@ -231,7 +226,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/257292",
-      "scrapedAt": "2026-11-08T11:07:51.647Z"
+      "scrapedAt": "2026-11-08T11:28:23.241Z"
     },
     {
       "id": "movacar_258633",
@@ -282,7 +277,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/258633",
-      "scrapedAt": "2026-11-08T11:07:51.648Z"
+      "scrapedAt": "2026-11-08T11:28:23.241Z"
     },
     {
       "id": "movacar_260670",
@@ -333,7 +328,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260670",
-      "scrapedAt": "2026-11-08T11:07:51.650Z"
+      "scrapedAt": "2026-11-08T11:28:23.242Z"
     },
     {
       "id": "movacar_260716",
@@ -384,7 +379,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260716",
-      "scrapedAt": "2026-11-08T11:07:51.652Z"
+      "scrapedAt": "2026-11-08T11:28:23.242Z"
     },
     {
       "id": "movacar_260995",
@@ -435,7 +430,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260995",
-      "scrapedAt": "2026-11-08T11:07:51.653Z"
+      "scrapedAt": "2026-11-08T11:28:23.242Z"
     },
     {
       "id": "movacar_260750",
@@ -486,7 +481,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260750",
-      "scrapedAt": "2026-11-08T11:07:51.654Z"
+      "scrapedAt": "2026-11-08T11:28:23.242Z"
     },
     {
       "id": "movacar_260752",
@@ -537,7 +532,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/260752",
-      "scrapedAt": "2026-11-08T11:07:51.656Z"
+      "scrapedAt": "2026-11-08T11:28:23.243Z"
     },
     {
       "id": "movacar_261184",
@@ -588,7 +583,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261184",
-      "scrapedAt": "2026-11-08T11:07:51.661Z"
+      "scrapedAt": "2026-11-08T11:28:23.243Z"
     },
     {
       "id": "movacar_261185",
@@ -639,7 +634,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261185",
-      "scrapedAt": "2026-11-08T11:07:51.665Z"
+      "scrapedAt": "2026-11-08T11:28:23.243Z"
     },
     {
       "id": "movacar_261186",
@@ -690,7 +685,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261186",
-      "scrapedAt": "2026-11-08T11:07:51.668Z"
+      "scrapedAt": "2026-11-08T11:28:23.244Z"
     },
     {
       "id": "movacar_261189",
@@ -741,7 +736,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261189",
-      "scrapedAt": "2026-11-08T11:07:51.670Z"
+      "scrapedAt": "2026-11-08T11:28:23.244Z"
     },
     {
       "id": "movacar_261199",
@@ -792,7 +787,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261199",
-      "scrapedAt": "2026-11-08T11:07:51.672Z"
+      "scrapedAt": "2026-11-08T11:28:23.244Z"
     },
     {
       "id": "movacar_261200",
@@ -843,7 +838,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261200",
-      "scrapedAt": "2026-11-08T11:07:51.673Z"
+      "scrapedAt": "2026-11-08T11:28:23.244Z"
     },
     {
       "id": "movacar_261201",
@@ -894,7 +889,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261201",
-      "scrapedAt": "2026-11-08T11:07:51.674Z"
+      "scrapedAt": "2026-11-08T11:28:23.244Z"
     },
     {
       "id": "movacar_261202",
@@ -945,7 +940,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261202",
-      "scrapedAt": "2026-11-08T11:07:51.676Z"
+      "scrapedAt": "2026-11-08T11:28:23.245Z"
     },
     {
       "id": "movacar_261203",
@@ -996,7 +991,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261203",
-      "scrapedAt": "2026-11-08T11:07:51.677Z"
+      "scrapedAt": "2026-11-08T11:28:23.245Z"
     },
     {
       "id": "movacar_261204",
@@ -1047,7 +1042,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261204",
-      "scrapedAt": "2026-11-08T11:07:51.683Z"
+      "scrapedAt": "2026-11-08T11:28:23.245Z"
     },
     {
       "id": "movacar_261205",
@@ -1098,7 +1093,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261205",
-      "scrapedAt": "2026-11-08T11:07:51.685Z"
+      "scrapedAt": "2026-11-08T11:28:23.245Z"
     },
     {
       "id": "movacar_261226",
@@ -1149,7 +1144,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261226",
-      "scrapedAt": "2026-11-08T11:07:51.686Z"
+      "scrapedAt": "2026-11-08T11:28:23.246Z"
     },
     {
       "id": "movacar_261227",
@@ -1200,7 +1195,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261227",
-      "scrapedAt": "2026-11-08T11:07:51.686Z"
+      "scrapedAt": "2026-11-08T11:28:23.246Z"
     },
     {
       "id": "movacar_261234",
@@ -1251,7 +1246,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261234",
-      "scrapedAt": "2026-11-08T11:07:51.687Z"
+      "scrapedAt": "2026-11-08T11:28:23.246Z"
     },
     {
       "id": "movacar_261307",
@@ -1302,7 +1297,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261307",
-      "scrapedAt": "2026-11-08T11:07:51.689Z"
+      "scrapedAt": "2026-11-08T11:28:23.246Z"
     },
     {
       "id": "movacar_261384",
@@ -1353,7 +1348,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261384",
-      "scrapedAt": "2026-11-08T11:07:51.690Z"
+      "scrapedAt": "2026-11-08T11:28:23.246Z"
     },
     {
       "id": "movacar_261387",
@@ -1404,7 +1399,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261387",
-      "scrapedAt": "2026-11-08T11:07:51.691Z"
+      "scrapedAt": "2026-11-08T11:28:23.247Z"
     },
     {
       "id": "movacar_261438",
@@ -1455,7 +1450,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261438",
-      "scrapedAt": "2026-11-08T11:07:51.692Z"
+      "scrapedAt": "2026-11-08T11:28:23.247Z"
     },
     {
       "id": "movacar_261529",
@@ -1506,7 +1501,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261529",
-      "scrapedAt": "2026-11-08T11:07:51.693Z"
+      "scrapedAt": "2026-11-08T11:28:23.247Z"
     },
     {
       "id": "movacar_261532",
@@ -1557,7 +1552,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261532",
-      "scrapedAt": "2026-11-08T11:07:51.693Z"
+      "scrapedAt": "2026-11-08T11:28:23.247Z"
     },
     {
       "id": "movacar_261533",
@@ -1608,7 +1603,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261533",
-      "scrapedAt": "2026-11-08T11:07:51.694Z"
+      "scrapedAt": "2026-11-08T11:28:23.247Z"
     },
     {
       "id": "movacar_261534",
@@ -1659,7 +1654,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261534",
-      "scrapedAt": "2026-11-08T11:07:51.694Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261535",
@@ -1710,7 +1705,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261535",
-      "scrapedAt": "2026-11-08T11:07:51.695Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261536",
@@ -1761,7 +1756,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261536",
-      "scrapedAt": "2026-11-08T11:07:51.695Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261537",
@@ -1812,7 +1807,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261537",
-      "scrapedAt": "2026-11-08T11:07:51.695Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261538",
@@ -1863,7 +1858,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261538",
-      "scrapedAt": "2026-11-08T11:07:51.696Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261541",
@@ -1914,7 +1909,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261541",
-      "scrapedAt": "2026-11-08T11:07:51.696Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261542",
@@ -1965,7 +1960,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261542",
-      "scrapedAt": "2026-11-08T11:07:51.696Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261549",
@@ -2016,7 +2011,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261549",
-      "scrapedAt": "2026-11-08T11:07:51.696Z"
+      "scrapedAt": "2026-11-08T11:28:23.248Z"
     },
     {
       "id": "movacar_261588",
@@ -2067,7 +2062,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261588",
-      "scrapedAt": "2026-11-08T11:07:51.697Z"
+      "scrapedAt": "2026-11-08T11:28:23.249Z"
     },
     {
       "id": "movacar_261600",
@@ -2118,7 +2113,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261600",
-      "scrapedAt": "2026-11-08T11:07:51.697Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261601",
@@ -2169,7 +2164,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261601",
-      "scrapedAt": "2026-11-08T11:07:51.698Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261602",
@@ -2220,7 +2215,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261602",
-      "scrapedAt": "2026-11-08T11:07:51.698Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261603",
@@ -2271,7 +2266,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261603",
-      "scrapedAt": "2026-11-08T11:07:51.698Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261604",
@@ -2322,7 +2317,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261604",
-      "scrapedAt": "2026-11-08T11:07:51.699Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261605",
@@ -2373,7 +2368,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261605",
-      "scrapedAt": "2026-11-08T11:07:51.699Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261606",
@@ -2424,7 +2419,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261606",
-      "scrapedAt": "2026-11-08T11:07:51.699Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261614",
@@ -2475,7 +2470,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261614",
-      "scrapedAt": "2026-11-08T11:07:51.700Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261615",
@@ -2526,7 +2521,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261615",
-      "scrapedAt": "2026-11-08T11:07:51.700Z"
+      "scrapedAt": "2026-11-08T11:28:23.250Z"
     },
     {
       "id": "movacar_261624",
@@ -2577,7 +2572,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261624",
-      "scrapedAt": "2026-11-08T11:07:51.701Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261625",
@@ -2628,7 +2623,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261625",
-      "scrapedAt": "2026-11-08T11:07:51.701Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261628",
@@ -2679,7 +2674,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261628",
-      "scrapedAt": "2026-11-08T11:07:51.701Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261629",
@@ -2730,7 +2725,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261629",
-      "scrapedAt": "2026-11-08T11:07:51.701Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261631",
@@ -2781,7 +2776,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261631",
-      "scrapedAt": "2026-11-08T11:07:51.702Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261633",
@@ -2832,7 +2827,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261633",
-      "scrapedAt": "2026-11-08T11:07:51.702Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261634",
@@ -2883,7 +2878,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261634",
-      "scrapedAt": "2026-11-08T11:07:51.703Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261635",
@@ -2934,7 +2929,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261635",
-      "scrapedAt": "2026-11-08T11:07:51.703Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261636",
@@ -2985,7 +2980,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261636",
-      "scrapedAt": "2026-11-08T11:07:51.704Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261639",
@@ -3036,7 +3031,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261639",
-      "scrapedAt": "2026-11-08T11:07:51.704Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261640",
@@ -3087,7 +3082,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261640",
-      "scrapedAt": "2026-11-08T11:07:51.705Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261642",
@@ -3138,7 +3133,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261642",
-      "scrapedAt": "2026-11-08T11:07:51.705Z"
+      "scrapedAt": "2026-11-08T11:28:23.251Z"
     },
     {
       "id": "movacar_261643",
@@ -3189,7 +3184,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261643",
-      "scrapedAt": "2026-11-08T11:07:51.705Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261644",
@@ -3240,7 +3235,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261644",
-      "scrapedAt": "2026-11-08T11:07:51.705Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261645",
@@ -3291,7 +3286,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261645",
-      "scrapedAt": "2026-11-08T11:07:51.706Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261646",
@@ -3342,7 +3337,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261646",
-      "scrapedAt": "2026-11-08T11:07:51.706Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261647",
@@ -3393,7 +3388,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261647",
-      "scrapedAt": "2026-11-08T11:07:51.707Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261650",
@@ -3444,7 +3439,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261650",
-      "scrapedAt": "2026-11-08T11:07:51.708Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261651",
@@ -3495,7 +3490,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261651",
-      "scrapedAt": "2026-11-08T11:07:51.709Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261652",
@@ -3546,7 +3541,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261652",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261655",
@@ -3597,7 +3592,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261655",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261656",
@@ -3648,7 +3643,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261656",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261657",
@@ -3699,7 +3694,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261657",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.252Z"
     },
     {
       "id": "movacar_261659",
@@ -3750,7 +3745,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261659",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261660",
@@ -3801,7 +3796,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261660",
-      "scrapedAt": "2026-11-08T11:07:51.711Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261661",
@@ -3852,7 +3847,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261661",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261662",
@@ -3903,7 +3898,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261662",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261663",
@@ -3954,7 +3949,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261663",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261664",
@@ -4005,7 +4000,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261664",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261665",
@@ -4056,7 +4051,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261665",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.253Z"
     },
     {
       "id": "movacar_261667",
@@ -4107,7 +4102,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261667",
-      "scrapedAt": "2026-11-08T11:07:51.712Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261668",
@@ -4158,7 +4153,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261668",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261669",
@@ -4209,7 +4204,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261669",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261670",
@@ -4260,7 +4255,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261670",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261844",
@@ -4311,7 +4306,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261844",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261846",
@@ -4362,7 +4357,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261846",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.254Z"
     },
     {
       "id": "movacar_261847",
@@ -4413,7 +4408,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261847",
-      "scrapedAt": "2026-11-08T11:07:51.713Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261848",
@@ -4464,7 +4459,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261848",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261849",
@@ -4515,7 +4510,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261849",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261850",
@@ -4566,7 +4561,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261850",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261855",
@@ -4617,7 +4612,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261855",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261856",
@@ -4668,7 +4663,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261856",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.255Z"
     },
     {
       "id": "movacar_261860",
@@ -4719,7 +4714,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261860",
-      "scrapedAt": "2026-11-08T11:07:51.714Z"
+      "scrapedAt": "2026-11-08T11:28:23.256Z"
     },
     {
       "id": "movacar_261861",
@@ -4770,7 +4765,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261861",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.256Z"
     },
     {
       "id": "movacar_261864",
@@ -4821,7 +4816,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261864",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.256Z"
     },
     {
       "id": "movacar_261865",
@@ -4872,7 +4867,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261865",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.256Z"
     },
     {
       "id": "movacar_261866",
@@ -4923,7 +4918,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261866",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.256Z"
     },
     {
       "id": "movacar_261867",
@@ -4974,7 +4969,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261867",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.257Z"
     },
     {
       "id": "movacar_261868",
@@ -5025,7 +5020,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261868",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.257Z"
     },
     {
       "id": "movacar_261869",
@@ -5076,7 +5071,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261869",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.257Z"
     },
     {
       "id": "movacar_261870",
@@ -5127,7 +5122,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://movacar.com/de-DE/offers/261870",
-      "scrapedAt": "2026-11-08T11:07:51.715Z"
+      "scrapedAt": "2026-11-08T11:28:23.257Z"
     },
     {
       "id": "imoova_RLC129937",
@@ -5170,7 +5165,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bologna-to-lisbon/RLC129937",
-      "scrapedAt": "2026-11-08T11:07:50.705Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129927",
@@ -5213,7 +5208,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/vienna-to-lisbon/RLC129927",
-      "scrapedAt": "2026-11-08T11:07:50.705Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129935",
@@ -5256,7 +5251,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129935",
-      "scrapedAt": "2026-11-08T11:07:50.705Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129938",
@@ -5299,7 +5294,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129938",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129934",
@@ -5342,7 +5337,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129934",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129936",
@@ -5385,7 +5380,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129936",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129945",
@@ -5428,7 +5423,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bilbao-to-lisbon/RLC129945",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129947",
@@ -5471,7 +5466,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bilbao-to-lisbon/RLC129947",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129940",
@@ -5514,7 +5509,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129940",
-      "scrapedAt": "2026-11-08T11:07:50.706Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129941",
@@ -5557,7 +5552,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/lyon-to-lisbon/RLC129941",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129946",
@@ -5600,7 +5595,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bilbao-to-lisbon/RLC129946",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129944",
@@ -5643,7 +5638,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/barcelona-to-lisbon/RLC129944",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129933",
@@ -5686,7 +5681,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129933",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129939",
@@ -5729,7 +5724,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129939",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129943",
@@ -5772,7 +5767,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/paris-to-lisbon/RLC129943",
-      "scrapedAt": "2026-11-08T11:07:50.707Z"
+      "scrapedAt": "2026-11-08T11:28:22.412Z"
     },
     {
       "id": "imoova_RLC129930",
@@ -5815,7 +5810,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/split-to-lisbon/RLC129930",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129929",
@@ -5858,7 +5853,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/naples-to-lisbon/RLC129929",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129922",
@@ -5901,7 +5896,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/pisa-to-florence/RLC129922",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129924",
@@ -5944,7 +5939,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/pisa-to-florence/RLC129924",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129921",
@@ -5987,7 +5982,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/pisa-to-florence/RLC129921",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129931",
@@ -6030,7 +6025,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/zagreb-to-lisbon/RLC129931",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129942",
@@ -6073,7 +6068,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/paris-to-lisbon/RLC129942",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129948",
@@ -6116,7 +6111,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/madrid-to-lisbon/RLC129948",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129920",
@@ -6159,7 +6154,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/pisa-to-florence/RLC129920",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129923",
@@ -6202,7 +6197,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/pisa-to-florence/RLC129923",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129950",
@@ -6245,7 +6240,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bergamo-to-lisbon/RLC129950",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129928",
@@ -6288,7 +6283,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/venice-to-lisbon/RLC129928",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129949",
@@ -6331,7 +6326,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/bergamo-to-lisbon/RLC129949",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC128811",
@@ -6374,7 +6369,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/lisbon-to-faro/RLC128811",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129932",
@@ -6417,7 +6412,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/venice-to-lisbon/RLC129932",
-      "scrapedAt": "2026-11-08T11:07:50.708Z"
+      "scrapedAt": "2026-11-08T11:28:22.413Z"
     },
     {
       "id": "imoova_RLC129919",
@@ -6460,7 +6455,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/malmo-to-stockholm/RLC129919",
-      "scrapedAt": "2026-11-08T11:07:50.709Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "imoova_RLC129918",
@@ -6503,7 +6498,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/tromso-to-oslo/RLC129918",
-      "scrapedAt": "2026-11-08T11:07:50.709Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "imoova_RLC129953",
@@ -6546,7 +6541,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/barcelona-to-tenerife/RLC129953",
-      "scrapedAt": "2026-11-08T11:07:50.709Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "imoova_RLC129925",
@@ -6589,7 +6584,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/lisbon-to-malaga/RLC129925",
-      "scrapedAt": "2026-11-08T11:07:50.709Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "imoova_RLC130034",
@@ -6632,7 +6627,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/edinburgh-to-london/RLC130034",
-      "scrapedAt": "2026-11-08T11:07:50.710Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "imoova_RLC129952",
@@ -6675,7 +6670,7 @@
         "ferryNotes": null
       },
       "bookingUrl": "https://www.imoova.com/relocations/europe/amsterdam-to-tenerife/RLC129952",
-      "scrapedAt": "2026-11-08T11:07:50.710Z"
+      "scrapedAt": "2026-11-08T11:28:22.414Z"
     },
     {
       "id": "driiveme_lehavre_to_reims_van6mmanual3sea_04112026",
@@ -6718,7 +6713,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.848Z"
+      "scrapedAt": "2026-11-08T11:28:22.520Z"
     },
     {
       "id": "driiveme_valencia46014_to_madridnorte_4x4automatic5se_06112026",
@@ -6761,7 +6756,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.849Z"
+      "scrapedAt": "2026-11-08T11:28:22.520Z"
     },
     {
       "id": "driiveme_parisouest_to_caen_carautomatic5se_26102026",
@@ -6804,7 +6799,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.849Z"
+      "scrapedAt": "2026-11-08T11:28:22.520Z"
     },
     {
       "id": "driiveme_grenobleest_to_bordeauxouest_citymanual5seat_02112026",
@@ -6847,7 +6842,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.850Z"
+      "scrapedAt": "2026-11-08T11:28:22.520Z"
     },
     {
       "id": "driiveme_angoulmeouest_to_als_carmanual5seats_26102026",
@@ -6890,7 +6885,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.852Z"
+      "scrapedAt": "2026-11-08T11:28:22.521Z"
     },
     {
       "id": "driiveme_parisaroport_to_clermontferrand_mpvmanual5seats_05112026",
@@ -6933,7 +6928,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.853Z"
+      "scrapedAt": "2026-11-08T11:28:22.521Z"
     },
     {
       "id": "driiveme_royansud_to_carcassonnearoport_citymanual5seat_06112026",
@@ -6976,7 +6971,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.854Z"
+      "scrapedAt": "2026-11-08T11:28:22.523Z"
     },
     {
       "id": "driiveme_sainttienne_to_nancy_citymanual4seat_05112026",
@@ -7019,7 +7014,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.854Z"
+      "scrapedAt": "2026-11-08T11:28:22.523Z"
     },
     {
       "id": "driiveme_sainttienne_to_reims_citymanual4seat_05112026",
@@ -7062,7 +7057,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.855Z"
+      "scrapedAt": "2026-11-08T11:28:22.523Z"
     },
     {
       "id": "driiveme_sainttienne_to_troyesouest_citymanual4seat_05112026",
@@ -7105,7 +7100,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.858Z"
+      "scrapedAt": "2026-11-08T11:28:22.524Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisaroport_citymanual4seat_05112026",
@@ -7148,7 +7143,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.859Z"
+      "scrapedAt": "2026-11-08T11:28:22.524Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75016_citymanual4seat_05112026",
@@ -7191,7 +7186,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.860Z"
+      "scrapedAt": "2026-11-08T11:28:22.524Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75013_citymanual4seat_05112026",
@@ -7234,7 +7229,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.861Z"
+      "scrapedAt": "2026-11-08T11:28:22.524Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredel039est_citymanual4seat_05112026",
@@ -7277,7 +7272,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.863Z"
+      "scrapedAt": "2026-11-08T11:28:22.525Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaremontparnasse_citymanual4seat_05112026",
@@ -7320,7 +7315,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.864Z"
+      "scrapedAt": "2026-11-08T11:28:22.525Z"
     },
     {
       "id": "driiveme_sainttienne_to_parischarlesdegaulleairport_citymanual4seat_05112026",
@@ -7363,7 +7358,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.864Z"
+      "scrapedAt": "2026-11-08T11:28:22.525Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredelyon_citymanual4seat_05112026",
@@ -7406,7 +7401,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.866Z"
+      "scrapedAt": "2026-11-08T11:28:22.525Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaresaintlazare_citymanual4seat_05112026",
@@ -7449,7 +7444,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:50.869Z"
+      "scrapedAt": "2026-11-08T11:28:22.526Z"
     },
     {
       "id": "driiveme_braunschweig38118_to_bilbaoeste_limousinemanuel",
@@ -7492,7 +7487,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.460Z"
+      "scrapedAt": "2026-11-08T11:28:22.930Z"
     },
     {
       "id": "driiveme_lehavre_to_reims_nutzfahrzeug6mm",
@@ -7535,7 +7530,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.460Z"
+      "scrapedAt": "2026-11-08T11:28:22.930Z"
     },
     {
       "id": "driiveme_valencia46014_to_madridnorte_4x4automatik5si",
@@ -7578,7 +7573,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.461Z"
+      "scrapedAt": "2026-11-08T11:28:22.930Z"
     },
     {
       "id": "driiveme_parisouest_to_caen_limousineautoma",
@@ -7621,7 +7616,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.461Z"
+      "scrapedAt": "2026-11-08T11:28:22.930Z"
     },
     {
       "id": "driiveme_grenobleest_to_bordeauxouest_kleinwagenmanue",
@@ -7664,7 +7659,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.462Z"
+      "scrapedAt": "2026-11-08T11:28:22.930Z"
     },
     {
       "id": "driiveme_angoulmeouest_to_als_limousinemanuel",
@@ -7707,7 +7702,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.464Z"
+      "scrapedAt": "2026-11-08T11:28:22.931Z"
     },
     {
       "id": "driiveme_parisaroport_to_clermontferrand_familienautosva",
@@ -7750,7 +7745,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.464Z"
+      "scrapedAt": "2026-11-08T11:28:22.931Z"
     },
     {
       "id": "driiveme_royansud_to_carcassonnearoport_kleinwagenmanue",
@@ -7793,7 +7788,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.465Z"
+      "scrapedAt": "2026-11-08T11:28:22.931Z"
     },
     {
       "id": "driiveme_sainttienne_to_nancy_kleinwagenmanue",
@@ -7836,7 +7831,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.465Z"
+      "scrapedAt": "2026-11-08T11:28:22.931Z"
     },
     {
       "id": "driiveme_sainttienne_to_reims_kleinwagenmanue",
@@ -7879,7 +7874,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.466Z"
+      "scrapedAt": "2026-11-08T11:28:22.931Z"
     },
     {
       "id": "driiveme_sainttienne_to_troyesouest_kleinwagenmanue",
@@ -7922,7 +7917,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.466Z"
+      "scrapedAt": "2026-11-08T11:28:22.932Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisaroport_kleinwagenmanue",
@@ -7965,7 +7960,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.467Z"
+      "scrapedAt": "2026-11-08T11:28:22.932Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75016_kleinwagenmanue",
@@ -8008,7 +8003,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.468Z"
+      "scrapedAt": "2026-11-08T11:28:22.932Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75013_kleinwagenmanue",
@@ -8051,7 +8046,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.468Z"
+      "scrapedAt": "2026-11-08T11:28:22.932Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredel039est_kleinwagenmanue",
@@ -8094,7 +8089,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.470Z"
+      "scrapedAt": "2026-11-08T11:28:22.933Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaremontparnasse_kleinwagenmanue",
@@ -8137,7 +8132,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.470Z"
+      "scrapedAt": "2026-11-08T11:28:22.933Z"
     },
     {
       "id": "driiveme_sainttienne_to_parischarlesdegaulleairport_kleinwagenmanue",
@@ -8180,7 +8175,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.471Z"
+      "scrapedAt": "2026-11-08T11:28:22.933Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredelyon_kleinwagenmanue",
@@ -8223,7 +8218,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/de-DE/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.472Z"
+      "scrapedAt": "2026-11-08T11:28:22.933Z"
     },
     {
       "id": "driiveme_lehavre_to_reims_utilitaire6mman",
@@ -8266,7 +8261,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.850Z"
+      "scrapedAt": "2026-11-08T11:28:23.258Z"
     },
     {
       "id": "driiveme_parisouest_to_caen_berlineautomati",
@@ -8309,7 +8304,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.851Z"
+      "scrapedAt": "2026-11-08T11:28:23.258Z"
     },
     {
       "id": "driiveme_grenobleest_to_bordeauxouest_citadinemanuell",
@@ -8352,7 +8347,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.851Z"
+      "scrapedAt": "2026-11-08T11:28:23.259Z"
     },
     {
       "id": "driiveme_angoulmeouest_to_als_berlinemanuelle",
@@ -8395,7 +8390,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.853Z"
+      "scrapedAt": "2026-11-08T11:28:23.259Z"
     },
     {
       "id": "driiveme_parisaroport_to_clermontferrand_monospacemanuel",
@@ -8438,7 +8433,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.853Z"
+      "scrapedAt": "2026-11-08T11:28:23.259Z"
     },
     {
       "id": "driiveme_royansud_to_carcassonnearoport_citadinemanuell",
@@ -8481,7 +8476,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.855Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_nancy_citadinemanuell",
@@ -8524,7 +8519,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.856Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_reims_citadinemanuell",
@@ -8567,7 +8562,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.856Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_troyesouest_citadinemanuell",
@@ -8610,7 +8605,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.857Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisaroport_citadinemanuell",
@@ -8653,7 +8648,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.858Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75016_citadinemanuell",
@@ -8696,7 +8691,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.859Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75013_citadinemanuell",
@@ -8739,7 +8734,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.860Z"
+      "scrapedAt": "2026-11-08T11:28:23.260Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredel039est_citadinemanuell",
@@ -8782,7 +8777,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.862Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaremontparnasse_citadinemanuell",
@@ -8825,7 +8820,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.863Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_sainttienne_to_parischarlesdegaulleairport_citadinemanuell",
@@ -8868,7 +8863,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.864Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredelyon_citadinemanuell",
@@ -8911,7 +8906,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.865Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaresaintlazare_citadinemanuell",
@@ -8954,7 +8949,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.866Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisnord_citadinemanuell",
@@ -8997,7 +8992,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/fr-FR/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:51.867Z"
+      "scrapedAt": "2026-11-08T11:28:23.261Z"
     },
     {
       "id": "driiveme_valencia46014_to_madridnorte_4x4automx00e1ti",
@@ -9040,7 +9035,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.215Z"
+      "scrapedAt": "2026-11-08T11:28:23.645Z"
     },
     {
       "id": "driiveme_pamplonaeste_to_badalona08918_turismomanual5p",
@@ -9083,7 +9078,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.216Z"
+      "scrapedAt": "2026-11-08T11:28:23.645Z"
     },
     {
       "id": "driiveme_barcelonanorte_to_motril_furgoneta20mman",
@@ -9126,7 +9121,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.217Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_mlaga29006_to_lonslesaunierest_berlinaautomx00",
@@ -9169,7 +9164,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.218Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_lehavre_to_reims_furgoneta6mmanu",
@@ -9212,7 +9207,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.218Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_parisouest_to_caen_berlinaautomx00",
@@ -9255,7 +9250,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.219Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_grenobleest_to_bordeauxouest_turismomanual5p",
@@ -9298,7 +9293,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.219Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_angoulmeouest_to_als_berlinamanual5p",
@@ -9341,7 +9336,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.221Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_parisaroport_to_clermontferrand_monovolumenmanu",
@@ -9384,7 +9379,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.222Z"
+      "scrapedAt": "2026-11-08T11:28:23.646Z"
     },
     {
       "id": "driiveme_royansud_to_carcassonnearoport_turismomanual5p",
@@ -9427,7 +9422,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.223Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_nancy_turismomanual4p",
@@ -9470,7 +9465,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.224Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_reims_turismomanual4p",
@@ -9513,7 +9508,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.224Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_troyesouest_turismomanual4p",
@@ -9556,7 +9551,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.225Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisaroport_turismomanual4p",
@@ -9599,7 +9594,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.225Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75016_turismomanual4p",
@@ -9642,7 +9637,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.226Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_paris75013_turismomanual4p",
@@ -9685,7 +9680,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.227Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaredel039est_turismomanual4p",
@@ -9728,7 +9723,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.228Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "driiveme_sainttienne_to_parisgaremontparnasse_turismomanual4p",
@@ -9771,7 +9766,7 @@
         "ferryIncluded": false
       },
       "bookingUrl": "https://www.driiveme.com/es-ES/search-rental.html",
-      "scrapedAt": "2026-11-08T11:07:52.230Z"
+      "scrapedAt": "2026-11-08T11:28:23.647Z"
     },
     {
       "id": "indiecampers_barcelona_to_lisbon_activeplus_nov9nov15",
@@ -9814,7 +9809,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_barcelona_to_tenerife_activestandards_nov9nov15",
@@ -9857,7 +9852,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milanbergamo_to_lisbon_activeplus_nov9nov15",
@@ -9900,7 +9895,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milanbergamo_to_lisbon_activestandards_nov9nov15",
@@ -9943,7 +9938,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_bilbao_to_lisbon_activelongselec_nov9nov15",
@@ -9986,7 +9981,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_bilbao_to_lisbon_activeplus_nov9nov15",
@@ -10029,7 +10024,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.774Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_bilbao_to_lisbon_compactselect_nov9nov15",
@@ -10072,7 +10067,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_bologna_to_lisbon_activeplus_nov9nov15",
@@ -10115,7 +10110,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_lyon_to_lisbon_compactselect_nov9nov15",
@@ -10158,7 +10153,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milan_to_lisbon_activelongselec_nov9nov15",
@@ -10201,7 +10196,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milan_to_lisbon_activeplus_nov9nov15",
@@ -10244,7 +10239,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milan_to_lisbon_activestandards_nov9nov15",
@@ -10287,7 +10282,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_milan_to_lisbon_compactselect_nov9nov15",
@@ -10330,7 +10325,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_naples_to_lisbon_activelongselec_nov9nov15",
@@ -10373,7 +10368,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_paris_to_lisbon_activelongselec_nov9nov15",
@@ -10416,7 +10411,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_paris_to_lisbon_compactselect_nov9nov15",
@@ -10459,7 +10454,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_pisaoffers_to_florence_activeplusselec_nov9nov15",
@@ -10502,7 +10497,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_pisaoffers_to_florence_activestandards_nov9nov15",
@@ -10545,7 +10540,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     },
     {
       "id": "indiecampers_pisaoffers_to_florence_comfortplussele_nov9nov15",
@@ -10588,4089 +10583,7 @@
         "essentialKitIncluded": true
       },
       "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
-      "scrapedAt": "2026-11-08T11:07:50.775Z"
-    },
-    {
-      "id": "carlundcarla_260750",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Berlin",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "10365",
-        "street": "Buchberger Straße 5-19",
-        "stationCode": "carlundcarla1328"
-      },
-      "destination": {
-        "city": "Neuenhagen bei Bad Freienwalde",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "15366",
-        "street": "Am Wall 18",
-        "stationCode": "carlundcarla1280"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/260750",
-      "scrapedAt": "2026-11-08T11:07:52.607Z"
-    },
-    {
-      "id": "carlundcarla_260752",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Berlin",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "12681",
-        "street": "P+R Parkplatz S-Bahnhof, Berlin Marzahn",
-        "stationCode": "carlundcarla845"
-      },
-      "destination": {
-        "city": "Neuenhagen bei Bad Freienwalde",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "15366",
-        "street": "Am Wall 18",
-        "stationCode": "carlundcarla1280"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/260752",
-      "scrapedAt": "2026-11-08T11:07:52.607Z"
-    },
-    {
-      "id": "carlundcarla_261184",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Regensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "93059",
-        "street": "Brennesstraße",
-        "stationCode": "carlundcarla1507"
-      },
-      "destination": {
-        "city": "Deggendorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "94469",
-        "street": "Brunnwiesenstraße 1",
-        "stationCode": "carlundcarla1272"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261184",
-      "scrapedAt": "2026-11-08T11:07:52.608Z"
-    },
-    {
-      "id": "carlundcarla_261185",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Regensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "93059",
-        "street": "Brennesstraße",
-        "stationCode": "carlundcarla1507"
-      },
-      "destination": {
-        "city": "Deggendorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "94469",
-        "street": "Brunnwiesenstraße 1",
-        "stationCode": "carlundcarla1272"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261185",
-      "scrapedAt": "2026-11-08T11:07:52.609Z"
-    },
-    {
-      "id": "carlundcarla_261186",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Regensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "93053",
-        "street": "Parkplatz Bajuwarenstraße Hst. Johann-Hösl-Straße",
-        "stationCode": "carlundcarla1508"
-      },
-      "destination": {
-        "city": "Deggendorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "94469",
-        "street": "Brunnwiesenstraße 1",
-        "stationCode": "carlundcarla1272"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261186",
-      "scrapedAt": "2026-11-08T11:07:52.610Z"
-    },
-    {
-      "id": "carlundcarla_261189",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Regensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "93053",
-        "street": "Universitätsstraße zw. Karl-Stieler-Straße und Neuprüll",
-        "stationCode": "carlundcarla1506"
-      },
-      "destination": {
-        "city": "Deggendorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "94469",
-        "street": "Brunnwiesenstraße 1",
-        "stationCode": "carlundcarla1272"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261189",
-      "scrapedAt": "2026-11-08T11:07:52.613Z"
-    },
-    {
-      "id": "carlundcarla_261199",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Kassel",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "34121",
-        "street": "Sternbergstraße und Heinrich-Heine-Straße zw. Hraßweg und Leibnitzstraße",
-        "stationCode": "carlundcarla1428"
-      },
-      "destination": {
-        "city": "Guxhagen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34302",
-        "street": "Grifter Straße 1",
-        "stationCode": "carlundcarla1294"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261199",
-      "scrapedAt": "2026-11-08T11:07:52.614Z"
-    },
-    {
-      "id": "carlundcarla_261200",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Kassel",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "34117",
-        "street": "Joseph-Beuys-Straße 7",
-        "stationCode": "CC0358"
-      },
-      "destination": {
-        "city": "Guxhagen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34302",
-        "street": "Grifter Straße 1",
-        "stationCode": "carlundcarla1294"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261200",
-      "scrapedAt": "2026-11-08T11:07:52.615Z"
-    },
-    {
-      "id": "carlundcarla_261201",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Kassel",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "34121",
-        "street": "Ludwig-Mond-Straße zw. Eberhard-Wildermuth-Straße u. Esmarchstraße",
-        "stationCode": "carlundcarla692"
-      },
-      "destination": {
-        "city": "Guxhagen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34302",
-        "street": "Grifter Straße 1",
-        "stationCode": "carlundcarla1294"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261201",
-      "scrapedAt": "2026-11-08T11:07:52.615Z"
-    },
-    {
-      "id": "carlundcarla_261202",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Kassel",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "34127",
-        "street": "Nebenstraße Holländische Straße 201 - 209",
-        "stationCode": "carlundcarla1155"
-      },
-      "destination": {
-        "city": "Guxhagen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34302",
-        "street": "Grifter Straße 1",
-        "stationCode": "carlundcarla1294"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261202",
-      "scrapedAt": "2026-11-08T11:07:52.616Z"
-    },
-    {
-      "id": "carlundcarla_261203",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Kassel",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "34127",
-        "street": "Nebenstraße Holländische Straße 201 - 209",
-        "stationCode": "carlundcarla1155"
-      },
-      "destination": {
-        "city": "Guxhagen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34302",
-        "street": "Grifter Straße 1",
-        "stationCode": "carlundcarla1294"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261203",
-      "scrapedAt": "2026-11-08T11:07:52.616Z"
-    },
-    {
-      "id": "carlundcarla_261204",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Göttingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "37073",
-        "street": "Esso Tankstelle Weender Landstraße 10",
-        "stationCode": "carlundcarla1088"
-      },
-      "destination": {
-        "city": "Homberg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34576",
-        "street": "Konrad-Muth-Straße 5",
-        "stationCode": "carlundcarla1295"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261204",
-      "scrapedAt": "2026-11-08T11:07:52.617Z"
-    },
-    {
-      "id": "carlundcarla_261205",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Zweibrücken",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "37085",
-        "street": "Wörthstraße zw. Lönsweg und Breslauer Straße",
-        "stationCode": "carlundcarla1090"
-      },
-      "destination": {
-        "city": "Melsungen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "34212",
-        "street": "Unter dem Schönberg 15",
-        "stationCode": "carlundcarla1154"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261205",
-      "scrapedAt": "2026-11-08T11:07:52.617Z"
-    },
-    {
-      "id": "carlundcarla_261226",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Essen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "45128",
-        "street": "Parkplatz Weiglestraße 19 Unter den Helbingbrücken",
-        "stationCode": "carlundcarla910"
-      },
-      "destination": {
-        "city": "Halver",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "58553",
-        "street": "Weißenpferd 6",
-        "stationCode": "CC0446"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261226",
-      "scrapedAt": "2026-11-08T11:07:52.617Z"
-    },
-    {
-      "id": "carlundcarla_261227",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Essen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "45326",
-        "street": "Gladbecker Str. 436 - 448",
-        "stationCode": "carlundcarla714"
-      },
-      "destination": {
-        "city": "Halver",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "58553",
-        "street": "Weißenpferd 6",
-        "stationCode": "CC0446"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261227",
-      "scrapedAt": "2026-11-08T11:07:52.618Z"
-    },
-    {
-      "id": "carlundcarla_261234",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Essen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "45359",
-        "street": "Frintroper Straße zw. Aktienstraße und Schluchtstraße",
-        "stationCode": "carlundcarla1190"
-      },
-      "destination": {
-        "city": "Halver",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "58553",
-        "street": "Weißenpferd 6",
-        "stationCode": "CC0446"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261234",
-      "scrapedAt": "2026-11-08T11:07:52.618Z"
-    },
-    {
-      "id": "carlundcarla_261307",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Berlin",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "12347",
-        "street": "Gradestraße 35 - 115",
-        "stationCode": "carlundcarla1057"
-      },
-      "destination": {
-        "city": "Dahlwitz-Hoppegarten",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "15366",
-        "street": "Am Feldweg 1",
-        "stationCode": "carlundcarla1279"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261307",
-      "scrapedAt": "2026-11-08T11:07:52.618Z"
-    },
-    {
-      "id": "carlundcarla_261384",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Augsburg",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "86159",
-        "street": "Ecke Johann-Georg-Halske-Str. und Sigmund-Schukert-Str.",
-        "stationCode": "carlundcarla657"
-      },
-      "destination": {
-        "city": "Krumbach",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "86381",
-        "street": "Textilstraße 1",
-        "stationCode": "carlundcarla1268"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261384",
-      "scrapedAt": "2026-11-08T11:07:52.619Z"
-    },
-    {
-      "id": "carlundcarla_261387",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80997",
-        "street": "Allacher Straße zw. Ambossstraße und Bahnunterführung stadtauswärts",
-        "stationCode": "CC0064"
-      },
-      "destination": {
-        "city": "Schrobenhausen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "86529",
-        "street": "Pöttmeser Straße 31",
-        "stationCode": "carlundcarla1267"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T11:00:00Z",
-        "deliverBy": "2026-11-13T11:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261387",
-      "scrapedAt": "2026-11-08T11:07:52.619Z"
-    },
-    {
-      "id": "carlundcarla_261438",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Fürth",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "90765",
-        "street": "Hans-Vogel-Straße 110-117",
-        "stationCode": "CC0388"
-      },
-      "destination": {
-        "city": "Deggendorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "94469",
-        "street": "Brunnwiesenstraße 1",
-        "stationCode": "carlundcarla1272"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261438",
-      "scrapedAt": "2026-11-08T11:07:52.619Z"
-    },
-    {
-      "id": "carlundcarla_261529",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18107",
-        "street": "Haltestelle Warnowallee Rigaer Straße Ecke Osloer Straße",
-        "stationCode": "CC0302"
-      },
-      "destination": {
-        "city": "Goldberg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "19399",
-        "street": "Lange Straße 115",
-        "stationCode": "carlundcarla1290"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261529",
-      "scrapedAt": "2026-11-08T11:07:52.620Z"
-    },
-    {
-      "id": "carlundcarla_261532",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18107",
-        "street": "Haltestelle Warnowallee Rigaer Straße Ecke Osloer Straße",
-        "stationCode": "CC0302"
-      },
-      "destination": {
-        "city": "Goldberg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "19399",
-        "street": "Lange Straße 115",
-        "stationCode": "carlundcarla1290"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261532",
-      "scrapedAt": "2026-11-08T11:07:52.620Z"
-    },
-    {
-      "id": "carlundcarla_261533",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18069",
-        "street": "Parkplatz Höhe Hst. Rostock-Bramow, an Fritz-Triddelfitz-Weg",
-        "stationCode": "carlundcarla1142"
-      },
-      "destination": {
-        "city": "Leezen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "19067",
-        "street": "Schloßstraße 3",
-        "stationCode": "carlundcarla1291"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261533",
-      "scrapedAt": "2026-11-08T11:07:52.620Z"
-    },
-    {
-      "id": "carlundcarla_261534",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18069",
-        "street": "Parkplatz Höhe Hst. Rostock-Bramow, an Fritz-Triddelfitz-Weg",
-        "stationCode": "carlundcarla1142"
-      },
-      "destination": {
-        "city": "Leezen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "19067",
-        "street": "Schloßstraße 3",
-        "stationCode": "carlundcarla1291"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261534",
-      "scrapedAt": "2026-11-08T11:07:52.620Z"
-    },
-    {
-      "id": "carlundcarla_261535",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18146",
-        "street": "P+R Dierkower Kreuz Gutenbergstraße Ecke Hinrichsdorfer Straße",
-        "stationCode": "carlundcarla1509"
-      },
-      "destination": {
-        "city": "Leezen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "19067",
-        "street": "Schloßstraße 3",
-        "stationCode": "carlundcarla1291"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261535",
-      "scrapedAt": "2026-11-08T11:07:52.621Z"
-    },
-    {
-      "id": "carlundcarla_261536",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18106",
-        "street": "Parkplatz Theodor-Storm-Straße Ecke Berthold-Brecht-Straße",
-        "stationCode": "carlundcarla1062"
-      },
-      "destination": {
-        "city": "Leizen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "17209",
-        "street": "Woldezegartener Weg 10",
-        "stationCode": "carlundcarla1292"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261536",
-      "scrapedAt": "2026-11-08T11:07:52.621Z"
-    },
-    {
-      "id": "carlundcarla_261537",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Rostock",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "18059",
-        "street": "Erich-Schlesinger-Straße 21 an der Rostocker Moschee",
-        "stationCode": "CC0434"
-      },
-      "destination": {
-        "city": "Leizen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "17209",
-        "street": "Woldezegartener Weg 10",
-        "stationCode": "carlundcarla1292"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261537",
-      "scrapedAt": "2026-11-08T11:07:52.621Z"
-    },
-    {
-      "id": "carlundcarla_261538",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28211",
-        "street": "Kurfürstenallee, Ecke Orleanstraße",
-        "stationCode": "CC0284"
-      },
-      "destination": {
-        "city": "Beverstedt",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "27616",
-        "street": "Logestraße 27",
-        "stationCode": "carlundcarla1276"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261538",
-      "scrapedAt": "2026-11-08T11:07:52.621Z"
-    },
-    {
-      "id": "carlundcarla_261541",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28217",
-        "street": "Hansestraße zw. Landwehrstr. und Steffensweg",
-        "stationCode": "CC0785"
-      },
-      "destination": {
-        "city": "Cuxhaven",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "27472",
-        "street": "Peter-Henlein Str 13",
-        "stationCode": "carlundcarla929"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261541",
-      "scrapedAt": "2026-11-08T11:07:52.624Z"
-    },
-    {
-      "id": "carlundcarla_261542",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28217",
-        "street": "Hansestraße zw. Landwehrstr. und Steffensweg",
-        "stationCode": "CC0785"
-      },
-      "destination": {
-        "city": "Cuxhaven",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "27472",
-        "street": "Peter-Henlein Str 13",
-        "stationCode": "carlundcarla929"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261542",
-      "scrapedAt": "2026-11-08T11:07:52.625Z"
-    },
-    {
-      "id": "carlundcarla_261549",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28199",
-        "street": "Parkplatz unter Brücke zw. Carl-Francke-Straße und Neuenlander Straße",
-        "stationCode": "CC0782"
-      },
-      "destination": {
-        "city": "Cuxhaven",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "27472",
-        "street": "Peter-Henlein Str 13",
-        "stationCode": "carlundcarla929"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261549",
-      "scrapedAt": "2026-11-08T11:07:52.625Z"
-    },
-    {
-      "id": "carlundcarla_261588",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23554",
-        "street": "Schwartauer Allee zw. Geverdesstraße und Drögestraße",
-        "stationCode": "carlundcarla1110"
-      },
-      "destination": {
-        "city": "Bordesholm",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24582",
-        "street": "Eiderhöhe 8",
-        "stationCode": "carlundcarla1284"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261588",
-      "scrapedAt": "2026-11-08T11:07:52.629Z"
-    },
-    {
-      "id": "carlundcarla_261601",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23569",
-        "street": "IKEA Lübeck Dänischburger Landstraße 79-81",
-        "stationCode": "carlundcarla1464"
-      },
-      "destination": {
-        "city": "Neumünster",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24534",
-        "street": "Friedrichstraße 7-19,",
-        "stationCode": "C00819"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261601",
-      "scrapedAt": "2026-11-08T11:07:52.631Z"
-    },
-    {
-      "id": "carlundcarla_261602",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23560",
-        "street": "star Tankstelle Kronsforder Allee 124",
-        "stationCode": "carlundcarla1465"
-      },
-      "destination": {
-        "city": "Neumünster",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24534",
-        "street": "Friedrichstraße 7-19,",
-        "stationCode": "C00819"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261602",
-      "scrapedAt": "2026-11-08T11:07:52.632Z"
-    },
-    {
-      "id": "carlundcarla_261603",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23560",
-        "street": "star Tankstelle Kronsforder Allee 124",
-        "stationCode": "carlundcarla1465"
-      },
-      "destination": {
-        "city": "Neumünster",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24534",
-        "street": "Friedrichstraße 7-19,",
-        "stationCode": "C00819"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261603",
-      "scrapedAt": "2026-11-08T11:07:52.633Z"
-    },
-    {
-      "id": "carlundcarla_261604",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23566",
-        "street": "star Tankstelle Walderseestraße 19-29",
-        "stationCode": "C00815"
-      },
-      "destination": {
-        "city": "Flintbek",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24220",
-        "street": "Eiderkamp 27",
-        "stationCode": "carlundcarla1285"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261604",
-      "scrapedAt": "2026-11-08T11:07:52.633Z"
-    },
-    {
-      "id": "carlundcarla_261605",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23569",
-        "street": "IKEA Lübeck Dänischburger Landstraße 79-81",
-        "stationCode": "carlundcarla1464"
-      },
-      "destination": {
-        "city": "Flensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24941",
-        "street": "Am Sophienhof 18",
-        "stationCode": "carlundcarla1287"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261605",
-      "scrapedAt": "2026-11-08T11:07:52.633Z"
-    },
-    {
-      "id": "carlundcarla_261606",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28329",
-        "street": "Konrad-Adenauer-Allee zw. Julius-Brecht-Allee und Sportplatz",
-        "stationCode": "carlundcarla897"
-      },
-      "destination": {
-        "city": "Flensburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24941",
-        "street": "Am Sophienhof 18",
-        "stationCode": "carlundcarla1287"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 350,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261606",
-      "scrapedAt": "2026-11-08T11:07:52.634Z"
-    },
-    {
-      "id": "carlundcarla_261614",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Lübeck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "23554",
-        "street": "Schwartauer Allee zw. Geverdesstraße und Drögestraße",
-        "stationCode": "carlundcarla1110"
-      },
-      "destination": {
-        "city": "Neumünster",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "24539",
-        "street": "Krokamp 87",
-        "stationCode": "C00821"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261614",
-      "scrapedAt": "2026-11-08T11:07:52.634Z"
-    },
-    {
-      "id": "carlundcarla_261624",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Neuhausen ob Eck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "70193",
-        "street": "Zeppelinstraße zw. Haltestelle Leibnizstraße und Aussichtsplattform",
-        "stationCode": "carlundcarla718"
-      },
-      "destination": {
-        "city": "Kirchheim unter Teck",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "73230",
-        "street": "Boschstr.6",
-        "stationCode": "carlundcarla1525"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261624",
-      "scrapedAt": "2026-11-08T11:07:52.634Z"
-    },
-    {
-      "id": "carlundcarla_261625",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bremen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "28199",
-        "street": "Parkplatz unter Brücke zw. Carl-Francke-Straße und Neuenlander Straße",
-        "stationCode": "CC0782"
-      },
-      "destination": {
-        "city": "Geestland",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "27624",
-        "street": "Raiffeisenstraße 51",
-        "stationCode": "carlundcarla1277"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261625",
-      "scrapedAt": "2026-11-08T11:07:52.635Z"
-    },
-    {
-      "id": "carlundcarla_261628",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Stuttgart",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "70191",
-        "street": "Stresemannstraße zw. Killesbergbahn und Perkins Park",
-        "stationCode": "CC0144"
-      },
-      "destination": {
-        "city": "Wendlingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "73240",
-        "street": "Wertstr.38",
-        "stationCode": "carlundcarla1527"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261628",
-      "scrapedAt": "2026-11-08T11:07:52.635Z"
-    },
-    {
-      "id": "carlundcarla_261629",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Stuttgart Flughafen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "70184",
-        "street": "Gerokstraße U-Bahn Hst. Bubenbad",
-        "stationCode": "CC0154"
-      },
-      "destination": {
-        "city": "Wendlingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "73240",
-        "street": "Wertstr.38",
-        "stationCode": "carlundcarla1527"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261629",
-      "scrapedAt": "2026-11-08T11:07:52.636Z"
-    },
-    {
-      "id": "carlundcarla_261631",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Stuttgart Flughafen",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "70569",
-        "street": "Hst. Lauchhau Nobelstraße",
-        "stationCode": "carlundcarla1528"
-      },
-      "destination": {
-        "city": "Möglin",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "71696",
-        "street": "Daimlerstraße 30",
-        "stationCode": "carlundcarla1318"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 50,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261631",
-      "scrapedAt": "2026-11-08T11:07:52.636Z"
-    },
-    {
-      "id": "carlundcarla_261633",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81673",
-        "street": "Innsbrucker Ring 15",
-        "stationCode": "carlundcarla1082"
-      },
-      "destination": {
-        "city": "Biberach an der Riß",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88400",
-        "street": "Wilhelmstraße 19",
-        "stationCode": "carlundcarla1237"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261633",
-      "scrapedAt": "2026-11-08T11:07:52.638Z"
-    },
-    {
-      "id": "carlundcarla_261634",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81673",
-        "street": "Innsbrucker Ring 15",
-        "stationCode": "carlundcarla1082"
-      },
-      "destination": {
-        "city": "Biberach an der Riß",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88400",
-        "street": "Wilhelmstraße 19",
-        "stationCode": "carlundcarla1237"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261634",
-      "scrapedAt": "2026-11-08T11:07:52.639Z"
-    },
-    {
-      "id": "carlundcarla_261635",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81927",
-        "street": "Denninger Str. 188-200",
-        "stationCode": "CC0290"
-      },
-      "destination": {
-        "city": "Biberach an der Riß",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88400",
-        "street": "Wilhelmstraße 19",
-        "stationCode": "carlundcarla1237"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261635",
-      "scrapedAt": "2026-11-08T11:07:52.639Z"
-    },
-    {
-      "id": "carlundcarla_261636",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81477",
-        "street": "Drygalski-Allee zw. Kistlerhofstraße und Stäblistraße",
-        "stationCode": "carlundcarla1160"
-      },
-      "destination": {
-        "city": "Blaubeuren",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89143",
-        "street": "Dr. Georg-Spohn-Straße 43",
-        "stationCode": "carlundcarla1239"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261636",
-      "scrapedAt": "2026-11-08T11:07:52.640Z"
-    },
-    {
-      "id": "carlundcarla_261639",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81477",
-        "street": "Drygalski-Allee zw. Kistlerhofstraße und Stäblistraße",
-        "stationCode": "carlundcarla1160"
-      },
-      "destination": {
-        "city": "Blaubeuren",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89143",
-        "street": "Dr. Georg-Spohn-Straße 43",
-        "stationCode": "carlundcarla1239"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261639",
-      "scrapedAt": "2026-11-08T11:07:52.641Z"
-    },
-    {
-      "id": "carlundcarla_261640",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81247",
-        "street": "Menzinger Straße zw. Amalienburgstraße und Donizettiweg",
-        "stationCode": "carlundcarla1484"
-      },
-      "destination": {
-        "city": "Burgau",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89331",
-        "street": "Dieselstraße 5",
-        "stationCode": "carlundcarla1243"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261640",
-      "scrapedAt": "2026-11-08T11:07:52.641Z"
-    },
-    {
-      "id": "carlundcarla_261642",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80997",
-        "street": "Allacher Straße zw. Ambossstraße und Bahnunterführung stadtauswärts",
-        "stationCode": "CC0064"
-      },
-      "destination": {
-        "city": "Burgau",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89331",
-        "street": "Dieselstraße 5",
-        "stationCode": "carlundcarla1243"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261642",
-      "scrapedAt": "2026-11-08T11:07:52.642Z"
-    },
-    {
-      "id": "carlundcarla_261643",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München Flughafen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81375",
-        "street": "Würmtalstraße zw. Kornwegerstraße und Lichtensteinstraße",
-        "stationCode": "carlundcarla1162"
-      },
-      "destination": {
-        "city": "Ehingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89584",
-        "street": "Max-Planck-Straße 19",
-        "stationCode": "carlundcarla1240"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261643",
-      "scrapedAt": "2026-11-08T11:07:52.642Z"
-    },
-    {
-      "id": "carlundcarla_261644",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München Flughafen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81375",
-        "street": "Würmtalstraße zw. Kornwegerstraße und Lichtensteinstraße",
-        "stationCode": "carlundcarla1162"
-      },
-      "destination": {
-        "city": "Ehingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89584",
-        "street": "Max-Planck-Straße 19",
-        "stationCode": "carlundcarla1240"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261644",
-      "scrapedAt": "2026-11-08T11:07:52.643Z"
-    },
-    {
-      "id": "carlundcarla_261645",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80997",
-        "street": "Allacher Straße zw. Ambossstraße und Bahnunterführung stadtauswärts",
-        "stationCode": "CC0064"
-      },
-      "destination": {
-        "city": "Gerstetten",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89547",
-        "street": "Tiefe Gasse 7",
-        "stationCode": "carlundcarla1244"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261645",
-      "scrapedAt": "2026-11-08T11:07:52.643Z"
-    },
-    {
-      "id": "carlundcarla_261646",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80997",
-        "street": "Allacher Straße zw. Ambossstraße und Bahnunterführung stadtauswärts",
-        "stationCode": "CC0064"
-      },
-      "destination": {
-        "city": "Gerstetten",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89547",
-        "street": "Tiefe Gasse 7",
-        "stationCode": "carlundcarla1244"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261646",
-      "scrapedAt": "2026-11-08T11:07:52.644Z"
-    },
-    {
-      "id": "carlundcarla_261647",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81739",
-        "street": "Putzbrunner Straße zw. Fritz-Erler-Straße und Karl-Marx-Ring",
-        "stationCode": "carlundcarla1478"
-      },
-      "destination": {
-        "city": "Gerstetten",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89547",
-        "street": "Tiefe Gasse 7",
-        "stationCode": "carlundcarla1244"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261647",
-      "scrapedAt": "2026-11-08T11:07:52.644Z"
-    },
-    {
-      "id": "carlundcarla_261650",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Ottobrunn",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "85521",
-        "street": "Haidgraben zw. Ostpreußenstraße und Christa-McAuliffe-Straße",
-        "stationCode": "carlundcarla1152"
-      },
-      "destination": {
-        "city": "Gundelfingen an der Donau",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89423",
-        "street": "Industriestraße 40",
-        "stationCode": "carlundcarla1246"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261650",
-      "scrapedAt": "2026-11-08T11:07:52.649Z"
-    },
-    {
-      "id": "carlundcarla_261651",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81369",
-        "street": "Murnauer Straße zw. Asperstraße und Höglwörther Straße",
-        "stationCode": "carlundcarla1161"
-      },
-      "destination": {
-        "city": "Günzburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89312",
-        "street": "Ferdinand-Porsche-Straße 1",
-        "stationCode": "carlundcarla1249"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261651",
-      "scrapedAt": "2026-11-08T11:07:52.649Z"
-    },
-    {
-      "id": "carlundcarla_261652",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81825",
-        "street": "Wasserburger Landstraße zw. Truderinger Straße und Schwablhofstraße",
-        "stationCode": "carlundcarla1157"
-      },
-      "destination": {
-        "city": "Günzburg",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89312",
-        "street": "Ferdinand-Porsche-Straße 1",
-        "stationCode": "carlundcarla1249"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261652",
-      "scrapedAt": "2026-11-08T11:07:52.650Z"
-    },
-    {
-      "id": "carlundcarla_261655",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81671",
-        "street": "Hechtseestraße zw. Innsbrucker Ring und Krumbadstraße",
-        "stationCode": "carlundcarla1153"
-      },
-      "destination": {
-        "city": "Herbrechtingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89542",
-        "street": "Am Bühlfeld 19",
-        "stationCode": "carlundcarla1247"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261655",
-      "scrapedAt": "2026-11-08T11:07:52.650Z"
-    },
-    {
-      "id": "carlundcarla_261656",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80937",
-        "street": "Ingolstädter Straße Ecke Pfauenweg",
-        "stationCode": "CC0047"
-      },
-      "destination": {
-        "city": "Langenau",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89129",
-        "street": "Hindenburgstraße 27",
-        "stationCode": "carlundcarla1248"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261656",
-      "scrapedAt": "2026-11-08T11:07:52.651Z"
-    },
-    {
-      "id": "carlundcarla_261657",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80937",
-        "street": "Ingolstädter Straße Ecke Pfauenweg",
-        "stationCode": "CC0047"
-      },
-      "destination": {
-        "city": "Langenau",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89129",
-        "street": "Hindenburgstraße 27",
-        "stationCode": "carlundcarla1248"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261657",
-      "scrapedAt": "2026-11-08T11:07:52.651Z"
-    },
-    {
-      "id": "carlundcarla_261659",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81927",
-        "street": "Englschalkinger Straße 148-164",
-        "stationCode": "carlundcarla1121"
-      },
-      "destination": {
-        "city": "Laupheim",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88471",
-        "street": "Neue Welt 43",
-        "stationCode": "carlundcarla1238"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261659",
-      "scrapedAt": "2026-11-08T11:07:52.651Z"
-    },
-    {
-      "id": "carlundcarla_261660",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81549",
-        "street": "Ständlerstraßezw. Schwanseestraße und Balanstraße",
-        "stationCode": "CC0084"
-      },
-      "destination": {
-        "city": "Laupheim",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88471",
-        "street": "Neue Welt 43",
-        "stationCode": "carlundcarla1238"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261660",
-      "scrapedAt": "2026-11-08T11:07:52.652Z"
-    },
-    {
-      "id": "carlundcarla_261661",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81549",
-        "street": "Ständlerstraßezw. Schwanseestraße und Balanstraße",
-        "stationCode": "CC0084"
-      },
-      "destination": {
-        "city": "Laupheim",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88471",
-        "street": "Neue Welt 43",
-        "stationCode": "carlundcarla1238"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261661",
-      "scrapedAt": "2026-11-08T11:07:52.652Z"
-    },
-    {
-      "id": "carlundcarla_261662",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81549",
-        "street": "Ständlerstraßezw. Schwanseestraße und Balanstraße",
-        "stationCode": "CC0084"
-      },
-      "destination": {
-        "city": "Laupheim",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88471",
-        "street": "Neue Welt 43",
-        "stationCode": "carlundcarla1238"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261662",
-      "scrapedAt": "2026-11-08T11:07:52.652Z"
-    },
-    {
-      "id": "carlundcarla_261663",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80686",
-        "street": "Westendstraße zw. Barmer Straße und Fachnerstraße",
-        "stationCode": "C00835"
-      },
-      "destination": {
-        "city": "Riedlingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88499",
-        "street": "Opelstraße 3",
-        "stationCode": "carlundcarla1242"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261663",
-      "scrapedAt": "2026-11-08T11:07:52.653Z"
-    },
-    {
-      "id": "carlundcarla_261664",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81247",
-        "street": "Menzinger Straße zw. Amalienburgstraße und Donizettiweg",
-        "stationCode": "carlundcarla1484"
-      },
-      "destination": {
-        "city": "Riedlingen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88499",
-        "street": "Opelstraße 3",
-        "stationCode": "carlundcarla1242"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 250,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261664",
-      "scrapedAt": "2026-11-08T11:07:52.653Z"
-    },
-    {
-      "id": "carlundcarla_261665",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München Flughafen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81375",
-        "street": "Würmtalstraße zw. Kornwegerstraße und Lichtensteinstraße",
-        "stationCode": "carlundcarla1162"
-      },
-      "destination": {
-        "city": "Vöhringen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "89269",
-        "street": "Carl-Benz-Straße 14",
-        "stationCode": "carlundcarla1241"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261665",
-      "scrapedAt": "2026-11-08T11:07:52.653Z"
-    },
-    {
-      "id": "carlundcarla_261667",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81241",
-        "street": "Weinbergerstraße zw. Am Knie und Benedikterstraße",
-        "stationCode": "MÜN2"
-      },
-      "destination": {
-        "city": "Wangen (Allgäu)",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88239",
-        "street": "Lindauer Straße 34",
-        "stationCode": "carlundcarla1250"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261667",
-      "scrapedAt": "2026-11-08T11:07:52.654Z"
-    },
-    {
-      "id": "carlundcarla_261668",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "81241",
-        "street": "Weinbergerstraße zw. Am Knie und Benedikterstraße",
-        "stationCode": "MÜN2"
-      },
-      "destination": {
-        "city": "Wangen (Allgäu)",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88239",
-        "street": "Lindauer Straße 34",
-        "stationCode": "carlundcarla1250"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261668",
-      "scrapedAt": "2026-11-08T11:07:52.654Z"
-    },
-    {
-      "id": "carlundcarla_261669",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80638",
-        "street": "Baldurstraße 40-47",
-        "stationCode": "CC0297"
-      },
-      "destination": {
-        "city": "Wangen (Allgäu)",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88239",
-        "street": "Lindauer Straße 34",
-        "stationCode": "carlundcarla1250"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261669",
-      "scrapedAt": "2026-11-08T11:07:52.655Z"
-    },
-    {
-      "id": "carlundcarla_261670",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "München",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "80638",
-        "street": "Baldurstraße 40-47",
-        "stationCode": "CC0297"
-      },
-      "destination": {
-        "city": "Wangen (Allgäu)",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "88239",
-        "street": "Lindauer Straße 34",
-        "stationCode": "carlundcarla1250"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261670",
-      "scrapedAt": "2026-11-08T11:07:52.659Z"
-    },
-    {
-      "id": "carlundcarla_261844",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44789",
-        "street": "Universitätsstraße 74 - 78",
-        "stationCode": "carlundcarla602"
-      },
-      "destination": {
-        "city": "Ahlen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59227",
-        "street": "Südbrede 1-5",
-        "stationCode": "C00471"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261844",
-      "scrapedAt": "2026-11-08T11:07:52.660Z"
-    },
-    {
-      "id": "carlundcarla_261846",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44801",
-        "street": "Markstr. 113-137",
-        "stationCode": "carlundcarla734"
-      },
-      "destination": {
-        "city": "Ahlen",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59227",
-        "street": "Südbrede 1-5",
-        "stationCode": "C00471"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261846",
-      "scrapedAt": "2026-11-08T11:07:52.660Z"
-    },
-    {
-      "id": "carlundcarla_261847",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44789",
-        "street": "Hunscheidtstraße 110 - 128",
-        "stationCode": "carlundcarla733"
-      },
-      "destination": {
-        "city": "Beckum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59269",
-        "street": "Krameramtstraße 3",
-        "stationCode": "carlundcarla1531"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261847",
-      "scrapedAt": "2026-11-08T11:07:52.660Z"
-    },
-    {
-      "id": "carlundcarla_261848",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44801",
-        "street": "Hustadtring 143 - 144",
-        "stationCode": "CC0368"
-      },
-      "destination": {
-        "city": "Beckum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59269",
-        "street": "Krameramtstraße 3",
-        "stationCode": "carlundcarla1531"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 150,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261848",
-      "scrapedAt": "2026-11-08T11:07:52.661Z"
-    },
-    {
-      "id": "carlundcarla_261849",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44892",
-        "street": "Unterstraße zw. Haltestelle Igelstraße und Alte Bahnhofstraße",
-        "stationCode": "carlundcarla1085"
-      },
-      "destination": {
-        "city": "Beckum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59269",
-        "street": "Krameramtstraße 3",
-        "stationCode": "carlundcarla1531"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261849",
-      "scrapedAt": "2026-11-08T11:07:52.661Z"
-    },
-    {
-      "id": "carlundcarla_261850",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Bochum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "44892",
-        "street": "P+R Parkplatz, Am Leithenhaus 14",
-        "stationCode": "carlundcarla647"
-      },
-      "destination": {
-        "city": "Beckum",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59269",
-        "street": "Krameramtstraße 3",
-        "stationCode": "carlundcarla1531"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261850",
-      "scrapedAt": "2026-11-08T11:07:52.661Z"
-    },
-    {
-      "id": "carlundcarla_261855",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Wuppertal",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "42277",
-        "street": "P+R Oberbarmen Höfen 5",
-        "stationCode": "CC0037"
-      },
-      "destination": {
-        "city": "Brilon",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59929",
-        "street": "Lange Wenden 5a",
-        "stationCode": "carlundcarla1265"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261855",
-      "scrapedAt": "2026-11-08T11:07:52.661Z"
-    },
-    {
-      "id": "carlundcarla_261856",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Wuppertal",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "42389",
-        "street": "Dahler Straße 12 - 24",
-        "stationCode": "C00788"
-      },
-      "destination": {
-        "city": "Brilon",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59929",
-        "street": "Lange Wenden 5a",
-        "stationCode": "carlundcarla1265"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261856",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_261864",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Düsseldorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "40229",
-        "street": "P+R Bahnhof Düsseldorf-Eller Süd Haigerweg",
-        "stationCode": "carlundcarla1042"
-      },
-      "destination": {
-        "city": "Erwitte",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59597",
-        "street": "Stirper Damm 1",
-        "stationCode": "CC0456"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261864",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_261865",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Düsseldorf",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "40474",
-        "street": "Kaiserswerther Straße zw. Grünewaldstraße und Hermann-Weill-Straße",
-        "stationCode": "CC0077"
-      },
-      "destination": {
-        "city": "Eslohe",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59889",
-        "street": "Hauptstraße 65a",
-        "stationCode": "carlundcarla1266"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 200,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261865",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_261868",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Dortmund",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "44141",
-        "street": "Deggingstraße Parkstreifen zw. Overbeckstraße u. Bovermannstraße",
-        "stationCode": "CC0069"
-      },
-      "destination": {
-        "city": "Lippstadt",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59557",
-        "street": "Schanzenweg 19",
-        "stationCode": "carlundcarla1023"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261868",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_261869",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Dortmund",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "44139",
-        "street": "Markgrafenstraße zw. Hohe Straße und Ruhrallee",
-        "stationCode": "carlundcarla1087"
-      },
-      "destination": {
-        "city": "Lippstadt",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59557",
-        "street": "Schanzenweg 19",
-        "stationCode": "carlundcarla1023"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261869",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_261870",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla (via Movacar)",
-      "origin": {
-        "city": "Dortmund",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "postalCode": "44147",
-        "street": "Schützenstraße Ecke Bülowstraße",
-        "stationCode": "carlundcarla735"
-      },
-      "destination": {
-        "city": "Lippstadt",
-        "countryCode": "DE",
-        "countryName": "DE",
-        "postalCode": "59557",
-        "street": "Schanzenweg 19",
-        "stationCode": "carlundcarla1023"
-      },
-      "dates": {
-        "earliestDeparture": "2026-11-09T07:00:00Z",
-        "latestPickup": "2026-11-12T19:00:00Z",
-        "deliverBy": "2026-11-13T19:00:00Z",
-        "durationDays": 1,
-        "durationHours": 24
-      },
-      "vehicle": {
-        "model": "Volkswagen Crafter",
-        "categoryName": "Transporter",
-        "category": "van",
-        "seats": 2
-      },
-      "price": {
-        "amount": 1,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": 100,
-        "extraKmCostEuro": 0.5,
-        "fuelIncluded": false
-      },
-      "bookingUrl": "https://movacar.com/de-DE/offers/261870",
-      "scrapedAt": "2026-11-08T11:07:52.662Z"
-    },
-    {
-      "id": "carlundcarla_direct_einwegmiete",
-      "provider": "carlundcarla",
-      "providerName": "Carl und Carla",
-      "fleetPartner": "Carl und Carla Direct",
-      "origin": {
-        "city": "German Hubs (Berlin, Dresden, Cologne, Leipzig, Munich, Hamburg)",
-        "countryCode": "DE",
-        "countryName": "Germany"
-      },
-      "destination": {
-        "city": "German Hubs (Flexible Dropoff across Germany)",
-        "countryCode": "DE",
-        "countryName": "Germany"
-      },
-      "dates": {
-        "earliestDeparture": "Available on request (Seasonal Fleet Transfer)",
-        "durationDays": 3,
-        "durationHours": 72
-      },
-      "vehicle": {
-        "model": "Carl Transporter / Carlos XL / Carla 9-Sitzer",
-        "categoryName": "Transporter & Kleinbus",
-        "category": "van",
-        "seats": 3
-      },
-      "price": {
-        "amount": 0,
-        "currency": "EUR",
-        "rateType": "total"
-      },
-      "inclusions": {
-        "freeKm": "Generous transfer mileage included",
-        "fuelIncluded": false,
-        "ferryIncluded": false,
-        "notes": "Free one-way transfer rental (0€ base rate). Booked directly via Carl und Carla Kundenservice."
-      },
-      "bookingUrl": "https://carlundcarla.de/blog/aktion-kostenfreie-einwegmieten",
-      "scrapedAt": "2026-11-08T11:07:53.343Z"
+      "scrapedAt": "2026-11-08T11:28:22.449Z"
     }
   ]
 }

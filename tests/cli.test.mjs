@@ -24,7 +24,7 @@ assert.ok(helpOut.includes("indiecampers.com"), "Help missing indiecampers");
 assert.ok(helpOut.includes("movacar.de"), "Help missing movacar");
 assert.ok(helpOut.includes("driiveme.com"), "Help missing driiveme");
 assert.ok(helpOut.includes("imoova.com"), "Help missing imoova");
-assert.ok(helpOut.includes("carlundcarla.de"), "Help missing carlundcarla");
+assert.ok(helpOut.includes("Carl und Carla"), "Help missing Carl und Carla fleet info");
 console.log("  ✔ CLI help command works");
 
 // 2. Display

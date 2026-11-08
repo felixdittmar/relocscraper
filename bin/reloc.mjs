@@ -49,7 +49,7 @@ async function main() {
   switch (command) {
     case "scan": {
       console.log(colors.bold("\n🚀 Scraping European vehicle rental relocations..."));
-      console.log(colors.dim("Target sites: Indie Campers, Movacar, Driiveme, Imoova, Carl und Carla\n"));
+      console.log(colors.dim("Target platforms: Indie Campers, Movacar (incl. Carl und Carla fleet), Driiveme, Imoova\n"));
 
       const startTime = Date.now();
       const providersFilter = flags.provider ? [flags.provider] : null;
@@ -327,12 +327,11 @@ async function main() {
 ${colors.bold("Rental Relocations Scraper & Explorer CLI")}
 ${colors.dim("Automated tool for 1€ & free vehicle relocations across Europe")}
 
-${colors.bold("SUPPORTED PROVIDERS:")}
+${colors.bold("SUPPORTED PROVIDERS & FLEETS:")}
   • ${colors.yellow("indiecampers.com")}  (Campervan specials across Europe, up to 80% off, ferry refunds)
-  • ${colors.blue("movacar.de")}         (1€ car & van transfer trips across Germany & Europe)
+  • ${colors.blue("movacar.de")}         (1€ car & van transfers across Germany & Europe; includes Carl und Carla fleet)
   • ${colors.cyan("driiveme.com")}       (1€ one-way car & van rentals in France, Germany, Spain, UK, etc.)
   • ${colors.magenta("imoova.com")}         (1€ campervan relocations in Europe & UK)
-  • ${colors.green("carlundcarla.de")}   (Free 0€ & 1€ Transporter and 9-Sitzer relocations)
 
 ${colors.bold("USAGE:")}
   reloc <command> [options]

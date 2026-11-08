@@ -23,7 +23,6 @@ filters:
     - "movacar"
     - "driiveme"
     - "imoova"
-    - "carlundcarla"
 
 notifications:
   on_new_deal: true
