@@ -36,6 +36,7 @@ Similar to `career-ops`, each capability and workflow is formally specified in a
 | [`modes/display.md`](modes/display.md) | `display` | Displays formatted ANSI terminal tables with colored price & provider badges |
 | [`modes/filter.md`](modes/filter.md) | `filter` | Multi-criteria filtering (origin, destination, vehicle, seats, price, perks) |
 | [`modes/sort.md`](modes/sort.md) | `sort` | Multi-field sorting (price, dates, duration, seats, origin, destination) |
+| [`modes/route.md`](modes/route.md) | `route` | Hybrid D-Ticket + 1€ relocation optimizer (finds faster trips) |
 | [`modes/detail.md`](modes/detail.md) | `detail` | Deep-dive specification sheet for an individual offer and depot address |
 | [`modes/stats.md`](modes/stats.md) | `stats` | European market analytics, top corridors, and provider breakdown |
 | [`modes/watch.md`](modes/watch.md) | `watch` | Automated recurring monitor detecting newly added routes |
@@ -138,7 +139,24 @@ reloc sort date asc
 reloc sort seats desc
 ```
 
-### 5. Inspect Deal Details (`detail`)
+### 5. Deutschlandticket + 1€ Relocation Route Optimizer (`route`)
+
+Combines free regional transit (RE, RB, S-Bahn) with high-speed 1€ relocations to find trips that are significantly faster than pure regional trains at virtually zero extra cost:
+
+```bash
+# Calculate fastest hybrid routes between two cities
+reloc route Berlin Hamburg
+reloc route Berlin Köln
+reloc route Frankfurt Berlin
+
+# Filter only routes with free fuel included (e.g. Ugoki/MILES)
+reloc route Berlin Hamburg --fuel-only
+
+# Filter for a specific pickup date
+reloc route Berlin Hamburg --date 2026-11-10
+```
+
+### 6. Inspect Deal Details (`detail`)
 
 ```bash
 reloc detail imoova_RLC129937

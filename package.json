@@ -1,7 +1,7 @@
 {
   "name": "relocscraper",
   "version": "1.0.0",
-  "description": "CLI tool to automatically scrape, display, filter and sort rental relocations across Europe (indiecampers.com, movacar.de, driiveme.com, imoova.com, carlundcarla.de)",
+  "description": "CLI tool to automatically scrape, display, filter and sort rental relocations across Europe (indiecampers.com, movacar.de, driiveme.com, imoova.com, ugoki.com)",
   "type": "module",
   "bin": {
     "reloc": "./bin/reloc.mjs"
@@ -12,6 +12,7 @@
     "display": "node bin/reloc.mjs display",
     "filter": "node bin/reloc.mjs filter",
     "sort": "node bin/reloc.mjs sort",
+    "route": "node bin/reloc.mjs route",
     "stats": "node bin/reloc.mjs stats",
     "watch": "node bin/reloc.mjs watch",
     "export": "node bin/reloc.mjs export",
@@ -29,6 +30,8 @@
     "movacar",
     "imoova",
     "indiecampers",
+    "ugoki",
+    "flipcar",
     "carlundcarla"
   ],
   "author": "Antigravity & Checker",
