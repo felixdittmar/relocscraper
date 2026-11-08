@@ -1,6 +1,30 @@
+# Dependencies
 node_modules/
+
+# Cache & Temporary Scraper Payloads
 data/cache/
 *.log
 .DS_Store
+
+# User Personalization Layer (Never commit personal preferences or custom rules)
+config/preferences.yml
+modes/_custom.md
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.env
+*.token
+*.pem
+*.key
+*.secret
+id_rsa*
+
+# Mobile Packages & Binary App Dumps
 *.xapk
 *.apk
+
+# Drafts & Personal Social Posts
+*LINKEDIN*
+*.draft.*
+*draft*
