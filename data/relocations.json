@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T11:45:15.448Z",
+  "lastUpdated": "2026-11-08T11:51:30.585Z",
   "totalDeals": 768,
   "stats": {
     "movacar": {
@@ -5551,8 +5551,8 @@
       "fleetPartner": "Indie Campers",
       "origin": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46138",
         "street": "Carrer Massamagrell, 36, Rafelbunyol",
         "stationCode": "IC120"
@@ -5603,7 +5603,7 @@
       "origin": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -5653,8 +5653,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -5713,7 +5713,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -5764,7 +5764,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -10091,7 +10091,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40225",
         "street": "P+R Sürdpark Universitätsstraße",
         "stationCode": "CC0537"
@@ -10142,7 +10142,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40225",
         "street": "P+R Sürdpark Universitätsstraße",
         "stationCode": "CC0537"
@@ -10193,7 +10193,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40229",
         "street": "P+R Bahnhof Düsseldorf-Eller Süd Haigerweg",
         "stationCode": "carlundcarla1042"
@@ -10244,7 +10244,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40474",
         "street": "Kaiserswerther Straße zw. Grünewaldstraße und Hermann-Weill-Straße",
         "stationCode": "CC0077"
@@ -10295,7 +10295,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40237",
         "street": "Faunastraße zw. Mathildenstraße und Graf-Recke-Straße",
         "stationCode": "C00832"
@@ -10346,7 +10346,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40629",
         "street": "Staufenplatz, P+R Parkplatz",
         "stationCode": "CC0176"
@@ -10652,7 +10652,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40549",
         "street": "P+R Parkplatz, Simon-Gatzweiler-Platz",
         "stationCode": "carlundcarla1044"
@@ -11060,7 +11060,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40225",
         "street": "P+R Sürdpark Universitätsstraße",
         "stationCode": "CC0537"
@@ -11111,7 +11111,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40474",
         "street": "Kaiserswerther Straße zw. Grünewaldstraße und Hermann-Weill-Straße",
         "stationCode": "CC0077"
@@ -11162,7 +11162,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40233",
         "street": "Ronsdorfer Straße  Ecke Lierenfelder Straße Parkstreifen",
         "stationCode": "CC0068"
@@ -11213,7 +11213,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40229",
         "street": "P+R Bahnhof Düsseldorf-Eller Süd Haigerweg",
         "stationCode": "carlundcarla1042"
@@ -11264,7 +11264,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40237",
         "street": "Faunastraße zw. Mathildenstraße und Graf-Recke-Straße",
         "stationCode": "C00832"
@@ -12590,7 +12590,7 @@
       "origin": {
         "city": "Düsseldorf",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "40231",
         "street": "Königsberger Straße Höhe Hst. An der Schützenwiese Parkstreifen vor Obi Baumarkt",
         "stationCode": "CC0092"
@@ -16312,8 +16312,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -17085,8 +17085,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -17136,8 +17136,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -17443,7 +17443,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -17791,8 +17791,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -18819,8 +18819,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -18964,8 +18964,8 @@
       "fleetPartner": "Indie Campers",
       "origin": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30020",
         "street": "Via delle Industrie, 138, Marcon",
         "stationCode": "IC102"
@@ -19474,8 +19474,8 @@
       "fleetPartner": "Indie Campers",
       "origin": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30020",
         "street": "Via delle Industrie, 138, Marcon",
         "stationCode": "IC102"
@@ -19882,8 +19882,8 @@
       "fleetPartner": "Indie Campers",
       "origin": {
         "city": "Tromsø",
-        "countryCode": "PT",
-        "countryName": "Portugal",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "9018",
         "street": "Hndverkervegen 6",
         "stationCode": "IC110"
@@ -20043,8 +20043,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -20247,8 +20247,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -20656,7 +20656,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -20699,7 +20699,7 @@
       "origin": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -20749,8 +20749,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -20800,8 +20800,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -20953,8 +20953,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -21208,8 +21208,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -21675,8 +21675,8 @@
       },
       "destination": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -22135,7 +22135,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -22585,8 +22585,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -22798,7 +22798,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -22848,8 +22848,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -23001,8 +23001,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -23155,7 +23155,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -23359,7 +23359,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -23460,8 +23460,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -24531,8 +24531,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -24829,8 +24829,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -25245,8 +25245,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -25296,8 +25296,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -25543,8 +25543,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Zürich",
-        "countryCode": "PT",
-        "countryName": "Portugal",
+        "countryCode": "CH",
+        "countryName": "Switzerland",
         "postalCode": "8620",
         "street": "Grubenstrasse 24",
         "stationCode": "RS46"
@@ -25594,8 +25594,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -25959,8 +25959,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -26716,8 +26716,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -27693,8 +27693,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -28611,8 +28611,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -28968,8 +28968,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -29478,8 +29478,8 @@
       },
       "destination": {
         "city": "Zürich",
-        "countryCode": "PT",
-        "countryName": "Portugal",
+        "countryCode": "CH",
+        "countryName": "Switzerland",
         "postalCode": "8620",
         "street": "Grubenstrasse 24",
         "stationCode": "RS46"
@@ -29878,8 +29878,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -30142,7 +30142,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -30192,8 +30192,8 @@
       },
       "destination": {
         "city": "Málaga",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "29590",
         "street": "C. José Calderón, 120",
         "stationCode": "RS55"
@@ -30856,7 +30856,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -30957,8 +30957,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -31051,8 +31051,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -31255,8 +31255,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -31459,8 +31459,8 @@
       "fleetPartner": "Roadsurfer",
       "origin": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -32480,7 +32480,7 @@
       "origin": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -35700,8 +35700,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -36312,8 +36312,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -36516,8 +36516,8 @@
       },
       "destination": {
         "city": "Castellanza (bei Mailand)",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "21053",
         "street": "Via Salvo D'Acquisito, 28",
         "stationCode": "RS58"
@@ -36669,8 +36669,8 @@
       },
       "destination": {
         "city": "Venedig",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "IT",
+        "countryName": "Italy",
         "postalCode": "30034",
         "street": "Via Ghebba, 109",
         "stationCode": "RS60"
@@ -36772,7 +36772,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -36917,7 +36917,7 @@
       "origin": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -37128,8 +37128,8 @@
       },
       "destination": {
         "city": "València",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "46220",
         "street": "C. N-2, Parcela 16",
         "stationCode": "RS89"
@@ -37537,7 +37537,7 @@
       "destination": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -37587,8 +37587,8 @@
       },
       "destination": {
         "city": "Málaga",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "29590",
         "street": "C. José Calderón, 120",
         "stationCode": "RS55"
@@ -37682,7 +37682,7 @@
       "origin": {
         "city": "Dormagen (bei Düsseldorf)",
         "countryCode": "DE",
-        "countryName": "DE",
+        "countryName": "Germany",
         "postalCode": "41539",
         "street": "Norfer Str. 6",
         "stationCode": "RS102"
@@ -37791,8 +37791,8 @@
       },
       "destination": {
         "city": "Málaga",
-        "countryCode": "DE",
-        "countryName": "DE",
+        "countryCode": "ES",
+        "countryName": "Spain",
         "postalCode": "29590",
         "street": "C. José Calderón, 120",
         "stationCode": "RS55"
