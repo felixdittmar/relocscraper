@@ -1,26 +1,34 @@
 {
-  "lastUpdated": "2026-11-08T11:28:23.653Z",
+  "lastUpdated": "2026-11-08T11:29:20.215Z",
   "totalDeals": 227,
   "stats": {
+    "movacar": {
+      "name": "Movacar",
+      "count": 100,
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
+    },
     "imoova": {
       "name": "Imoova",
       "count": 36,
-      "status": "ok"
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
     },
     "indiecampers": {
       "name": "Indie Campers",
       "count": 19,
-      "status": "ok"
-    },
-    "movacar": {
-      "name": "Movacar",
-      "count": 100,
-      "status": "ok"
+      "status": "error",
+      "error": "fetch failed",
+      "cachedFallback": true
     },
     "driiveme": {
       "name": "Driiveme",
       "count": 72,
-      "status": "ok"
+      "status": "error",
+      "error": "Driiveme network request failed across all 4 locales",
+      "cachedFallback": true
     }
   },
   "deals": [
