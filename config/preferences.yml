@@ -1,0 +1,35 @@
+# Rental Relocations User Preferences
+# Customize your default search parameters here
+
+user:
+  home_country: "DE"
+  home_city: "Berlin"
+  favorite_destinations:
+    - "Spain"
+    - "Portugal"
+    - "Italy"
+    - "France"
+
+filters:
+  max_price_eur: 10.0
+  min_seats: 2
+  vehicle_types:
+    - "campervan"
+    - "van"
+    - "car"
+    - "motorhome"
+  include_providers:
+    - "indiecampers"
+    - "movacar"
+    - "driiveme"
+    - "imoova"
+    - "carlundcarla"
+
+notifications:
+  on_new_deal: true
+  min_alert_seats: 2
+  notify_destinations:
+    - "Lisbon"
+    - "Barcelona"
+    - "Madrid"
+    - "Rome"
