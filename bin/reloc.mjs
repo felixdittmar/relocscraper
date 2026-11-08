@@ -49,7 +49,7 @@ async function main() {
   switch (command) {
     case "scan": {
       console.log(colors.bold("\n🚀 Scraping European vehicle rental relocations..."));
-      console.log(colors.dim("Target platforms: Indie Campers, Movacar (incl. Carl und Carla fleet), Driiveme, Imoova\n"));
+      console.log(colors.dim("Target platforms: Indie Campers, Movacar (incl. Carl und Carla fleet), Driiveme, Imoova, Ugoki (FlipCar)\n"));
 
       const startTime = Date.now();
       const providersFilter = flags.provider ? [flags.provider] : null;

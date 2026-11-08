@@ -4,10 +4,10 @@
 
 A CLI tool and agent framework to automatically scrape, display, filter, sort, and monitor vehicle rental relocations across Europe from:
 - **`indiecampers.com`** (campervan specials, pop-up campers, ferry reimbursements)
-- **`movacar.de`** (1€ car and van transfer trips across Germany and Europe)
+- **`movacar.de`** (1€ car and van transfer trips across Germany and Europe, including Carl und Carla fleet)
 - **`driiveme.com`** (1€ one-way car and van rentals in France, Germany, Spain, Italy, Portugal, UK)
 - **`imoova.com`** (1€/day campervan relocations in Europe & UK)
-- **`carlundcarla.de`** (0€ free Einwegmieten campaigns and 1€ Transporter/9-seater relocations)
+- **`ugoki.com`** (formerly **FlipCar**; 1€ car and van transfers across Germany from Sixt, MILES, etc. with fuel allowance)
 
 The architecture is modeled directly after agent-native CLI tools like `career-ops`, where workflows are formally defined as modes in markdown files (`modes/*.md`).
 

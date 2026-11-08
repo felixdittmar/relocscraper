@@ -19,10 +19,10 @@ Car and campervan rental companies frequently need vehicles repositioned from on
 | Provider | Portal | Region | Inventory Focus | Typical Rate |
 |---|---|---|---|---|
 | **Indie Campers** | [indiecampers.com](https://indiecampers.com) | 18+ European Countries | Campervans & Pop-up RVs (Nomad, Active Plus, Atlas) | 1€ / day specials |
-| **Movacar** | [movacar.de](https://movacar.de) | Germany & Europe | Cars, Transporters, Campers | 1.00 € total |
+| **Movacar** | [movacar.de](https://movacar.de) | Germany & Europe | Cars, Transporters, Campers (incl. Carl und Carla) | 1.00 € total |
+| **Ugoki** (FlipCar) | [ugoki.com](https://ugoki.com) | Germany & Alpine routes | 1€ cars, vans & 9-seaters (Sixt, MILES, etc.) with fuel tank included | 1.00 € total |
 | **Driiveme** | [driiveme.com](https://driiveme.com) | FR, DE, ES, IT, PT, UK | 1€ One-way cars & utility vans (6m³-20m³) | 1.00 € total |
 | **Imoova** | [imoova.com](https://imoova.com) | Western & Southern Europe | European Campervans & Motorhomes | 1.00 € / day |
-| **Carl und Carla** | [carlundcarla.de](https://carlundcarla.de) | 50+ German Hubs | Transporter ("Carl"), XL ("Carlos"), 9-Sitzer ("Carla") | 0.00 € free or 1.00 € |
 
 ---
 

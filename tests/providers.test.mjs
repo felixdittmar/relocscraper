@@ -4,6 +4,7 @@ import { MovacarProvider } from "../lib/providers/movacar.mjs";
 import { ImoovaProvider } from "../lib/providers/imoova.mjs";
 import { DriivemeProvider } from "../lib/providers/driiveme.mjs";
 import { IndieCampersProvider } from "../lib/providers/indiecampers.mjs";
+import { UgokiProvider } from "../lib/providers/ugoki.mjs";
 import { loadProviderCache } from "../lib/storage.mjs";
 
 console.log("Running Provider Unit Tests...");
@@ -13,7 +14,8 @@ async function run() {
     new MovacarProvider(),
     new ImoovaProvider(),
     new DriivemeProvider(),
-    new IndieCampersProvider()
+    new IndieCampersProvider(),
+    new UgokiProvider()
   ];
 
   let passed = 0;
