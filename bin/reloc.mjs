@@ -18,6 +18,7 @@ import {
   formatRouteResults
 } from "../lib/formatter.mjs";
 import { findHybridRoutes } from "../lib/router.mjs";
+import { resolveVerifiedMilesVehicle, enrichRoutesWithTelematics } from "../lib/miles.mjs";
 import fs from "fs/promises";
 import path from "path";
 
@@ -195,6 +196,21 @@ async function main() {
         process.exit(1);
       }
 
+      // Check if user provided verified vehicle telematics from their MILES mobile app
+      const userOptions = {
+        userRange: flags.range || flags["starting-range"] || flags["start-range"],
+        userFuel: flags.fuel || flags["starting-fuel"] || flags["fuel-pct"],
+        userCar: flags.car || flags.model,
+        userPlate: flags.plate || flags["license-plate"]
+      };
+
+      if (deal.fleetPartner === "MILES") {
+        const telematics = resolveVerifiedMilesVehicle(userOptions);
+        if (telematics) {
+          deal.liveTelematics = telematics;
+        }
+      }
+
       console.log("\n" + formatDealDetail(deal) + "\n");
       break;
     }
@@ -348,6 +364,15 @@ async function main() {
         fuelOnly: Boolean(flags["fuel-only"] || flags.fuel),
         date: flags.date,
         onlyFaster: !flags.all
+      });
+
+      // Enrich MILES routes with verified user telematics if passed
+      enrichRoutesWithTelematics(routeResult, {
+        limit: flags.limit ? parseInt(flags.limit, 10) : 5,
+        userRange: flags.range || flags["starting-range"] || flags["start-range"] || flags["miles-range"],
+        userFuel: flags.fuel || flags["starting-fuel"],
+        userCar: flags.car || flags.model,
+        userPlate: flags.plate
       });
 
       console.log(

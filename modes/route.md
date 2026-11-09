@@ -5,8 +5,8 @@ Calculates optimized travel itineraries combining free local/regional public tra
 ## Why This Works
 
 - **Pure Deutschlandticket baseline**: While the Deutschlandticket is valid on all German regional trains (RE/RB), long-distance trips (e.g., Berlin → Köln, Berlin → Hamburg, Frankfurt → Berlin) require multiple transfers (2–4 connections) and average only ~55–65 km/h, taking 5 to 10+ hours. High-speed ICE/IC trains are not covered by the ticket.
-- **1€ Relocations**: Vehicle transfers run on high-speed Autobahn corridors (averaging 110–120 km/h) and cost only 1.00 € (with Ugoki/MILES and certain Movacar offers even including free fuel).
-- **Hybrid synergy**: By taking free local RE/RB/S-Bahn feeder trains to and from the rental pickup/drop-off stations and driving the main intercity Autobahn leg, travelers can save 1 to 4+ hours of travel time at virtually zero added cost.
+- **1€ Relocations**: Vehicle transfers run on high-speed Autobahn corridors (averaging 110–120 km/h) and cost only 1.00 € (with depot transfers like Sixt via Ugoki often including the 1st tank free, while carsharing partners like MILES provide on-street tank levels as-is).
+- **Hybrid synergy**: By taking free local RE/RB/S-Bahn feeder trains to and from the rental pickup/drop-off stations and driving the main intercity Autobahn leg, travelers can save 1 to 4+ hours of travel time at minimal cost.
 
 ## CLI Invocation
 
@@ -20,7 +20,7 @@ reloc route Frankfurt Berlin
 reloc route --from Berlin --to Hamburg
 reloc route --from Frankfurt --to Berlin --fuel-only
 
-# Filter only routes with free fuel included (e.g. Ugoki / MILES)
+# Filter only routes with 1st tank / fuel included (e.g. Sixt via Ugoki)
 reloc route Berlin Hamburg --fuel-only
 
 # Adjust maximum D-Ticket feeder train radius (default: 180 km)
@@ -44,4 +44,5 @@ Every hybrid option provides:
    - `Leg 2 (Drive)`: 1€ Relocation drive on Autobahn with vehicle model and duration.
    - `Leg 3 (Train)`: D-Ticket Regional Transit from drop-off station to final destination (0.00 €).
 5. **Vehicle Specifications & Dates**: Vehicle category, seats, and available pickup date window.
-6. **Direct Booking Link**: Link to reserve the vehicle.
+6. **Verified Vehicle Range & Exact Fuel**: When passing `--range <km>` (e.g. from the MILES app), computes exact out-of-pocket fuel costs based on real vehicle autonomy and the 50 km return reserve rule.
+7. **Direct Booking Link**: Link to reserve the vehicle.

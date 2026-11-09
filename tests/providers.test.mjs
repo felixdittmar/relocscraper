@@ -48,6 +48,20 @@ async function run() {
       assert.ok(first.price?.amount !== undefined, `${p.name} deal missing price`);
       assert.ok(first.bookingUrl, `${p.name} deal missing bookingUrl`);
 
+      if (p.id === "ugoki") {
+        const milesDeal = deals.find(d => d.fleetPartner === "MILES" && d.vehicle.category === "car");
+        if (milesDeal) {
+          assert.strictEqual(milesDeal.vehicle.transmission, "automatic", "MILES passenger car must be automatic");
+          assert.strictEqual(milesDeal.inclusions.fuelIncluded, false, "MILES fuel must NOT be marked as free/included");
+          assert.ok(milesDeal.inclusions.perks.includes("Current Tank as-is"), "MILES must specify current tank as-is");
+          assert.ok(milesDeal.metadata?.crossReferenceHint, "MILES must include app cross-reference hint");
+        }
+        const sixtDeal = deals.find(d => d.fleetPartner === "Sixt");
+        if (sixtDeal) {
+          assert.strictEqual(sixtDeal.inclusions.fuelIncluded, true, "Sixt transfers should retain 1st tank included");
+        }
+      }
+
       console.log(`  ✔ ${p.name}: OK (${deals.length} deals verified)`);
       passed++;
     } catch (err) {

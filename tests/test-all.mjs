@@ -11,6 +11,7 @@ const testFiles = [
   "tests/providers.test.mjs",
   "tests/filter-sort.test.mjs",
   "tests/router.test.mjs",
+  "tests/miles.test.mjs",
   "tests/cli.test.mjs"
 ];
 

@@ -24,7 +24,7 @@ Car and campervan rental companies frequently need vehicles repositioned from on
 |---|---|---|---|---|
 | **Indie Campers** | [indiecampers.com](https://indiecampers.com) | 18+ European Countries | Campervans & Pop-up RVs (Nomad, Active Plus, Atlas) | 1€ / day specials |
 | **Movacar** | [movacar.de](https://movacar.de) | Germany & Europe | Cars, Transporters, Campers (incl. Carl und Carla) | 1.00 € total |
-| **Ugoki** (FlipCar) | [ugoki.com](https://ugoki.com) | Germany & Alpine routes | 1€ cars, vans & 9-seaters (Sixt, MILES, etc.) with fuel tank included | 1.00 € total |
+| **Ugoki** (FlipCar) | [ugoki.com](https://ugoki.com) | Germany & Alpine routes | 1€ cars & vans (Sixt depot transfers with 1st tank, MILES on-street carsharing) | 1.00 € total |
 | **Driiveme** | [driiveme.com](https://driiveme.com) | FR, DE, ES, IT, PT, UK | 1€ One-way cars & utility vans (6m³-20m³) | 1.00 € total |
 | **Imoova** | [imoova.com](https://imoova.com) | Western & Southern Europe | European Campervans & Motorhomes | 1.00 € / day |
 
@@ -153,38 +153,58 @@ reloc route Berlin Hamburg
 reloc route Berlin Köln
 reloc route Frankfurt Berlin
 
-# Filter only routes with free fuel included (e.g. Ugoki/MILES)
+# Filter only routes with 1st tank / fuel included (e.g. Sixt depot transfers via Ugoki)
 reloc route Berlin Hamburg --fuel-only
 
 # Filter for a specific pickup date
 reloc route Berlin Hamburg --date 2026-11-10
+
+# Pass verified vehicle range from your MILES app to calculate exact fuel top-up
+reloc route Berlin Giessen --range 335
 ```
 
 ### 6. Inspect Deal Details (`detail`)
 
+Displays full technical and booking specifications for any relocation deal, including depot addresses, free kilometer allowances, return rules, and fuel policies:
+
 ```bash
+# Inspect any relocation deal
 reloc detail imoova_RLC129937
+reloc detail ugoki_123456
+
+# Inspect a MILES on-street transfer with your verified app stats
+reloc detail ugoki_123456 --range 320 --fuel 50% --car "VW Golf" --plate "B-MI 1234"
 ```
 
-Output:
+Output with verified vehicle telematics:
 ```text
 ════════════════════════════════════════════════════════════
-🚘 RELOCATION OFFER: imoova_RLC129937
+🚘 RELOCATION OFFER: ugoki_123456
 ════════════════════════════════════════════════════════════
-Provider:      Imoova (Indie Campers)
-Origin:        Bologna, Italy
-Destination:   Lisbon, Portugal
-Vehicle:       Eu Active Poptop 4 Manual Base [🚐 Camper]
-Capacity:      4 Seats (4 Berths)
-Trip Duration: 5 days (120 hours)
-Dates:         Departure: 10th Nov 2026 | Deliver by: 15th Nov 2026
-Price:         1.00 EUR (per day)
-Free Km:       Standard allowance
-Booking Link:  https://www.imoova.com/relocations/europe/bologna-to-lisbon/RLC129937
+Provider:      Ugoki (MILES)
+Origin:        Berlin, Germany
+               Hauptstraße 10 
+Destination:   Frankfurt am Main, Germany
+               MILES Service Area 
+Vehicle:       Car [🚗 Car] (automatic)
+Capacity:      5 Seats 
+Trip Duration: 1 days (6 hours)
+Pickup Window: 2026-11-10 → 2026-11-16
+Deliver By:    2026-11-16
+Price:         1.00 EUR (total base rate)
+Free Km:       546 km included
+Fuel Policy:   Starts with current on-street tank level as-is. 
+               Extra fuel needed for trip is paid by driver.
+════════════════════════════════════════════════════════════
+🚘 VERIFIED VEHICLE TELEMATICS (Cross-Referenced via MILES App):
+  • Exact Vehicle:   VW Golf [B-MI 1234]
+  • Verified Fuel:   50% (320km range)
+  • Transmission:    Automatic
+Booking Link:  https://ugoki.com
 ════════════════════════════════════════════════════════════
 ```
 
-### 6. Market Intelligence & Corridors (`stats`)
+### 7. Market Intelligence & Corridors (`stats`)
 
 ```bash
 reloc stats
@@ -214,7 +234,7 @@ Average Trip Duration:      1.8 days
   • München → Laupheim: 8 vehicles
 ```
 
-### 7. Background Watcher & Change Alerts (`watch`)
+### 8. Background Watcher & Change Alerts (`watch`)
 
 ```bash
 # Single monitoring pass comparing against previous snapshot
@@ -224,7 +244,7 @@ reloc watch --once
 reloc watch --interval 300
 ```
 
-### 8. Export to CSV, JSON, or Markdown (`export`)
+### 9. Export to CSV, JSON, or Markdown (`export`)
 
 ```bash
 # Export to CSV (open in Excel / Google Sheets)
@@ -237,7 +257,7 @@ reloc export --format md --output data/relocations.md
 reloc export --format md --vehicle campervan --destination Portugal --output data/campers.md
 ```
 
-### 9. Pre-Flight Booking Checklist (`book`)
+### 10. Pre-Flight Booking Checklist (`book`)
 
 ```bash
 reloc book imoova_RLC129937

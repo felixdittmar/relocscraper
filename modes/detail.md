@@ -33,4 +33,9 @@ reloc detail indiecampers_barcelona_to_lisbon_activeplus
 - **Financial Details**: Base price, currency, billing model (per-trip total or per-day)
 - **Mileage Terms**: Free kilometers included, cost in EUR per extra kilometer beyond allowance
 - **Special Incentives**: Fuel allowances, ferry ticket reimbursement
+- **MILES App Cross-Referencing**: For Ugoki transfers operated by MILES (free-floating on-street carsharing), the tool guides users to cross-reference the pickup street address in the MILES mobile app for ground-truth vehicle specs, and supports passing verified telematics via CLI flags:
+  - `--range <km>`: Remaining autonomy in kilometers (e.g. `--range 320`)
+  - `--fuel <pct>`: Fuel or charge percentage (e.g. `--fuel 50%`)
+  - `--car <model>`: Verified vehicle model (e.g. `--car "VW Golf"`)
+  - `--plate <plate>`: License plate (e.g. `--plate "B-MI 1234"`)
 - **Direct Reservation URL**: Clickable link to complete the booking on the provider's official portal
