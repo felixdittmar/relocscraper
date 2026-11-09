@@ -298,9 +298,26 @@ npm test
 ```
 
 Runs:
-- `tests/providers.test.mjs`: Tests live scraping against Indie Campers, Movacar, Driiveme, Imoova, Carl und Carla.
+- `scripts/check-privacy.mjs`: Privacy & secret leak guard.
+- `tests/providers.test.mjs`: Tests scraping and normalization against Indie Campers, Movacar, Driiveme, Imoova, Ugoki (FlipCar).
 - `tests/filter-sort.test.mjs`: Unit tests for multi-parameter filtering and ranking.
+- `tests/router.test.mjs`: Hybrid route optimizer, dynamic OSM geocoding, and transit timetable engine.
+- `tests/miles.test.mjs`: Verified vehicle telematics resolver and fuel deficit calculation.
 - `tests/cli.test.mjs`: Integration tests for all CLI mode commands.
+
+---
+
+## Acknowledgments & Data Sources
+
+- **Geocoding & Map Data**: [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors (licensed under [ODbL](https://opendatacommons.org/licenses/odbl/)) via [Nominatim](https://nominatim.org) and [Komoot Photon](https://photon.komoot.io).
+- **Public Transit Timetables**: [MOTIS Project](https://motis-project.de) (Algorithm Engineering Group, TU Darmstadt) for European GTFS rail timetable calculations.
+- **Architectural Paradigm**: Modeled after the agentic workflow standards of `career-ops`.
+
+---
+
+## Disclaimer
+
+This is an independent open-source research and productivity tool. It is not affiliated with, authorized, maintained, or endorsed by Indie Campers, Movacar, Driiveme, Imoova, Ugoki, FlipCar, MILES Mobility, Sixt, Deutsche Bahn, or any of their affiliates. All product and company names are trademarks™ or registered® trademarks of their respective holders.
 
 ---
 
