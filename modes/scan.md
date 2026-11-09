@@ -13,7 +13,7 @@ reloc scan --provider movacar
 reloc scan --provider imoova
 reloc scan --provider driiveme
 reloc scan --provider indiecampers
-reloc scan --provider carlundcarla
+reloc scan --provider ugoki
 ```
 
 ## Provider Implementation Details
@@ -36,6 +36,14 @@ reloc scan --provider carlundcarla
 ### 4. Imoova (`imoova.com`)
 - **Endpoint**: `https://www.imoova.com/relocations/table/europe`
 - **Data Extracted**: Structured table rows containing reference IDs (`RLC...`), departure/arrival depots, date windows, vehicle classification, daily rate (€1), duration, seats, fuel allowance, and ferry reimbursement.
+
+### 5. Ugoki (`ugoki.com`, formerly FlipCar)
+- **Endpoint**: `https://api.flipcar.app/api/v2/transfers`
+- **Headers**: Official client API key `Api-Key: 1E19F37647E563D726279F8A0FD5A4`
+- **Fleet Syndication**: Aggregates 1€ relocation transfers across Germany for Sixt and MILES Mobility.
+  - **Sixt Transfers**: Traditional depot-to-depot transfers with a full 1st fuel tank or fuel voucher included.
+  - **MILES Transfers**: Free-floating carsharing transfers. Vehicles are picked up on-street with their current fuel/battery level as-is (with automatic transmission defaulted for passenger cars).
+- **Data Extracted**: Transfer ID, origin depot/street address with coordinates, destination dropoff area/depot, vehicle category (cars, vans, 9-seaters), transmission, included distance allowance, security deposit, retention/deductible, and remote app-unlock capability.
 
 ## Persistence & Caching Contract
 

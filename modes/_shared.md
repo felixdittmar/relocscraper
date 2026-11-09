@@ -8,6 +8,7 @@ This document contains shared constants, data schemas, normalization invariants,
 |---|---|---|---|---|
 | **Indie Campers** | `indiecampers.com` | Pan-European (18+ countries) | Campervans & Pop-up vans (Active Plus, Nomad, Atlas) | €1/day (specials) or up to 80% off |
 | **Movacar** | `movacar.de` / `movacar.com` | Germany & Central Europe | Cars, Transporters, Campervans (incl. Carl und Carla fleet) | €1.00 total |
+| **Ugoki** (FlipCar) | `ugoki.com` | Germany & Alpine routes | 1€ cars, vans & 9-seaters (Sixt 1st tank, MILES on-street transfers) | €1.00 total |
 | **Driiveme** | `driiveme.com` | France, Germany, Spain, Italy, UK, Portugal | One-way passenger cars, utility vans (6m³-20m³) | €1.00 total |
 | **Imoova** | `imoova.com` | Western & Southern Europe (IT, PT, ES, DE, NL) | Motorhomes & Campervans | €1.00 / day |
 
@@ -19,8 +20,8 @@ Every scraper normalizes external payloads into this contract:
 
 ```typescript
 interface RelocationDeal {
-  id: string;                     // Unique identifier: e.g. "movacar_260109"
-  provider: string;               // "indiecampers" | "movacar" | "driiveme" | "imoova" | "carlundcarla"
+  id: string;                     // Unique identifier: e.g. "movacar_260109", "ugoki_522839"
+  provider: string;               // "indiecampers" | "movacar" | "ugoki" | "driiveme" | "imoova" | "carlundcarla"
   providerName: string;           // Formatted display name
   fleetPartner?: string | null;   // Underlying fleet brand if syndicated
   origin: {
