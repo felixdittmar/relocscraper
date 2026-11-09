@@ -1,6 +1,8 @@
 import assert from "node:assert";
 import {
   resolveCoordinates,
+  resolveCoordinatesAsync,
+  getRegionalTransitItinerary,
   estimateRegionalTrainTime,
   estimateDriveTime,
   haversineDistance,
@@ -23,6 +25,13 @@ assert.ok(muenchen && muenchen.lat > 48, "München coordinates resolved");
 const laatzen = resolveCoordinates("Laatzen (bei Hannover)");
 assert.ok(laatzen && laatzen.lat > 52, "Parentheses city resolved to parent hub");
 
+// Dynamic Async Resolution
+const arnstadt = await resolveCoordinatesAsync("Arnstadt");
+assert.ok(arnstadt && arnstadt.lat > 50, "Arnstadt resolved asynchronously");
+
+const groningen = await resolveCoordinatesAsync("Groningen");
+assert.ok(groningen && groningen.lat > 53, "Groningen resolved asynchronously");
+
 console.log("  ✔ Coordinate resolution and German umlaut normalization OK");
 
 // 2. Haversine distance
@@ -36,6 +45,14 @@ assert.ok(trainTime.durationMinutes > 240, "Berlin to Hamburg RE should take at 
 assert.ok(trainTime.transfers >= 1, "Berlin to Hamburg RE needs at least 1 transfer");
 console.log(`  ✔ Baseline D-Ticket train estimation OK (${trainTime.durationHoursStr})`);
 
+const transitItin = await getRegionalTransitItinerary(berlin, koln, "Berlin", "Köln");
+assert.ok(transitItin && transitItin.durationMinutes > 0, "Transit itinerary must calculate duration");
+assert.ok(
+  transitItin.source === "real_timetable" || transitItin.source === "heuristic",
+  "Transit source must be real_timetable or heuristic fallback"
+);
+console.log(`  ✔ Regional transit itinerary calculation OK (${transitItin.durationHoursStr}, source: ${transitItin.source})`);
+
 // 4. Autobahn driving estimation
 const driveTime = estimateDriveTime(280);
 assert.ok(driveTime.durationMinutes > 150 && driveTime.durationMinutes < 240, "280km Autobahn drive ~3h");
@@ -45,7 +62,7 @@ console.log(`  ✔ Drive time estimation OK (${driveTime.durationHoursStr})`);
 const data = await loadRelocations();
 const deals = data.deals || [];
 
-const hybridRes = findHybridRoutes(deals, "Berlin", "Hamburg");
+const hybridRes = await findHybridRoutes(deals, "Berlin", "Hamburg");
 assert.strictEqual(hybridRes.origin, "Berlin");
 assert.strictEqual(hybridRes.destination, "Hamburg");
 assert.ok(hybridRes.routes.length > 0, "Should find hybrid routes for Berlin -> Hamburg");

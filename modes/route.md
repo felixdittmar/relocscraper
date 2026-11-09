@@ -2,6 +2,8 @@
 
 Calculates optimized travel itineraries combining free local/regional public transit (via the Deutschlandticket: RE, RB, S-Bahn) with high-speed 1€ vehicle rental relocations (from Ugoki, Movacar, Driiveme, Imoova, etc.) to produce journeys that are significantly faster than pure regional train travel while maintaining ultra-low costs (typically ~1.00 € total with free fuel on supported offers).
 
+Supports **arbitrary European locations** (via dynamic OpenStreetMap geocoding with local caching) and queries **real-time European GTFS rail timetables** (via the MOTIS transit engine) with automatic offline fallback.
+
 ## Why This Works
 
 - **Pure Deutschlandticket baseline**: While the Deutschlandticket is valid on all German regional trains (RE/RB), long-distance trips (e.g., Berlin → Köln, Berlin → Hamburg, Frankfurt → Berlin) require multiple transfers (2–4 connections) and average only ~55–65 km/h, taking 5 to 10+ hours. High-speed ICE/IC trains are not covered by the ticket.

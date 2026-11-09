@@ -359,7 +359,7 @@ async function main() {
         deals = scanRes.deals;
       }
 
-      const routeResult = findHybridRoutes(deals, fromCity, toCity, {
+      const routeResult = await findHybridRoutes(deals, fromCity, toCity, {
         maxFeederKm: flags["max-feeder"] ? parseInt(flags["max-feeder"], 10) : 180,
         fuelOnly: Boolean(flags["fuel-only"] || flags.fuel),
         date: flags.date,
