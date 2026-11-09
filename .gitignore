@@ -3,8 +3,16 @@ node_modules/
 
 # Cache & Temporary Scraper Payloads
 data/cache/
+data/relocations.json
+data/relocations.previous.json
+data/*.csv
+data/*.md
+!data/sample-relocations.json
 *.log
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
 
 # User Personalization Layer (Never commit personal preferences or custom rules)
 config/preferences.yml

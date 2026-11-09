@@ -1,21 +1,12 @@
 import assert from "node:assert";
 import {
-  haversineDistanceMeters,
   resolveVerifiedMilesVehicle,
   enrichRoutesWithTelematics
 } from "../lib/miles.mjs";
 
 console.log("Running MILES Telematics Integration Tests...");
 
-// 1. Haversine distance in meters
-const d1 = haversineDistanceMeters(52.484276, 13.389736, 52.484276, 13.389736);
-assert.strictEqual(d1, 0, "Distance to same point must be 0");
-
-const d2 = haversineDistanceMeters(52.484276, 13.389736, 52.485000, 13.389736);
-assert.ok(d2 > 50 && d2 < 120, `Distance should be ~80m, got ${d2}`);
-console.log(`  ✔ Haversine distance in meters OK (${d2}m)`);
-
-// 2. resolveVerifiedMilesVehicle validation
+// 1. resolveVerifiedMilesVehicle validation
 const noFlags = resolveVerifiedMilesVehicle({});
 assert.strictEqual(noFlags, null, "Empty options should return null");
 

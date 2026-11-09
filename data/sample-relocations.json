@@ -1,0 +1,1224 @@
+{
+  "lastUpdated": "2026-11-09T12:00:00.000Z",
+  "totalDeals": 22,
+  "isSampleFixture": true,
+  "stats": {
+    "indiecampers": {
+      "name": "indiecampers",
+      "count": 4,
+      "status": "ok"
+    },
+    "imoova": {
+      "name": "imoova",
+      "count": 4,
+      "status": "ok"
+    },
+    "driiveme": {
+      "name": "driiveme",
+      "count": 4,
+      "status": "ok"
+    },
+    "ugoki": {
+      "name": "ugoki",
+      "count": 6,
+      "status": "ok"
+    },
+    "movacar": {
+      "name": "movacar",
+      "count": 4,
+      "status": "ok"
+    }
+  },
+  "deals": [
+    {
+      "id": "ugoki_470508",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "MILES",
+      "origin": {
+        "city": "Berlin",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "Kn\u00fcllweg 6A",
+        "stationCode": "94555",
+        "coordinates": {
+          "latitude": 52.549374,
+          "longitude": 13.175679
+        }
+      },
+      "destination": {
+        "city": "Hamburg",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "MILES Service Area",
+        "stationCode": "82931",
+        "coordinates": {
+          "latitude": 53.5610020175099,
+          "longitude": 10.00465758948542
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-10",
+        "latestPickup": "2026-12-07",
+        "availablePickupDates": [
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-14",
+          "2026-11-15",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-21",
+          "2026-11-22",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-26",
+          "2026-11-27",
+          "2026-11-28",
+          "2026-11-29",
+          "2026-11-30",
+          "2026-12-01",
+          "2026-12-02",
+          "2026-12-03",
+          "2026-12-04",
+          "2026-12-05",
+          "2026-12-06",
+          "2026-12-07"
+        ],
+        "pickupRange": "2026-11-10 \u2192 2026-12-07",
+        "deliverBy": "2026-12-07",
+        "durationDays": 1,
+        "durationHours": 3,
+        "dateHint": "2026-11-10 \u2192 2026-12-07 (1d)"
+      },
+      "vehicle": {
+        "category": "car",
+        "model": "Car",
+        "seats": 5,
+        "transmission": "automatic",
+        "imageUrl": "https://production.flipcar.app/images/api/v1/vehicle/unknown.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 150,
+        "deductible": 950
+      },
+      "inclusions": {
+        "freeKm": 270,
+        "extraKmCost": null,
+        "fuelIncluded": false,
+        "insuranceIncluded": true,
+        "perks": [
+          "Current Tank as-is",
+          "Automatic",
+          "App Unlock",
+          "270km"
+        ],
+        "fuelNotes": "Starts with current on-street tank level as-is. Extra fuel needed for trip is paid by driver."
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.986Z",
+      "metadata": {
+        "transferId": 470508,
+        "minimumAge": 21,
+        "coinsWin": 5,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": true,
+        "crossReferenceHint": "MILES Pro-Tip: Check the MILES app map at pickup address to view exact car model, license plate, and live battery/fuel %."
+      }
+    },
+    {
+      "id": "ugoki_507460",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "MILES",
+      "origin": {
+        "city": "Frankfurt am Main",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "Lyoner Stra\u00dfe 34",
+        "stationCode": "109991",
+        "coordinates": {
+          "latitude": 50.079239,
+          "longitude": 8.624461
+        }
+      },
+      "destination": {
+        "city": "Berlin",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "MILES Service Area",
+        "stationCode": "76793",
+        "coordinates": {
+          "latitude": 52.5084621,
+          "longitude": 13.3905522
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-10",
+        "latestPickup": "2026-11-12",
+        "availablePickupDates": [
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12"
+        ],
+        "pickupRange": "2026-11-10 \u2192 2026-11-12",
+        "deliverBy": "2026-11-12",
+        "durationDays": 1,
+        "durationHours": 6,
+        "dateHint": "2026-11-10 \u2192 2026-11-12 (1d)"
+      },
+      "vehicle": {
+        "category": "van",
+        "model": "MILES Transporter",
+        "seats": 2,
+        "transmission": "automatic",
+        "imageUrl": "https://assets.production.flipcar.app/car_images/iveco.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 300,
+        "deductible": 950
+      },
+      "inclusions": {
+        "freeKm": 587,
+        "extraKmCost": null,
+        "fuelIncluded": false,
+        "insuranceIncluded": true,
+        "perks": [
+          "Current Tank as-is",
+          "Automatic",
+          "App Unlock",
+          "587km"
+        ],
+        "fuelNotes": "Starts with current on-street tank level as-is. Extra fuel needed for trip is paid by driver."
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.981Z",
+      "metadata": {
+        "transferId": 507460,
+        "minimumAge": 21,
+        "coinsWin": 5,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": true,
+        "crossReferenceHint": "MILES Pro-Tip: Check the MILES app map at pickup address to view exact car model, license plate, and live battery/fuel %."
+      }
+    },
+    {
+      "id": "indiecampers_barcelona_to_lisbon_activeplus_nov10nov15",
+      "provider": "indiecampers",
+      "providerName": "Indie Campers",
+      "fleetPartner": null,
+      "origin": {
+        "city": "Barcelona",
+        "countryCode": "ES",
+        "countryName": "Spain"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "Nov 10 \u2013 Nov 15",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Indie Campers Active Plus",
+        "categoryName": "Active Plus",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": "Unlimited",
+        "extraKmCostEuro": 0,
+        "fuelIncluded": false,
+        "ferryIncluded": false,
+        "ferryNotes": null,
+        "essentialKitIncluded": true
+      },
+      "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
+      "scrapedAt": "2026-11-09T13:01:11.538Z"
+    },
+    {
+      "id": "indiecampers_barcelona_to_tenerife_activestandards_nov10nov15",
+      "provider": "indiecampers",
+      "providerName": "Indie Campers",
+      "fleetPartner": null,
+      "origin": {
+        "city": "Barcelona",
+        "countryCode": "ES",
+        "countryName": "Spain"
+      },
+      "destination": {
+        "city": "Tenerife",
+        "countryCode": "ES",
+        "countryName": "Spain"
+      },
+      "dates": {
+        "earliestDeparture": "Nov 10 \u2013 Nov 15",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Indie Campers Active Standard Select",
+        "categoryName": "Active Standard Select",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": "Unlimited",
+        "extraKmCostEuro": 0,
+        "fuelIncluded": false,
+        "ferryIncluded": true,
+        "ferryNotes": "Ferry ticket reimbursement available",
+        "essentialKitIncluded": true
+      },
+      "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
+      "scrapedAt": "2026-11-09T13:01:11.538Z"
+    },
+    {
+      "id": "indiecampers_milanbergamo_to_lisbon_activeplus_nov10nov15",
+      "provider": "indiecampers",
+      "providerName": "Indie Campers",
+      "fleetPartner": null,
+      "origin": {
+        "city": "Milan Bergamo",
+        "countryCode": "IT",
+        "countryName": "Italy"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "Nov 10 \u2013 Nov 15",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Indie Campers Active Plus",
+        "categoryName": "Active Plus",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": "Unlimited",
+        "extraKmCostEuro": 0,
+        "fuelIncluded": false,
+        "ferryIncluded": false,
+        "ferryNotes": null,
+        "essentialKitIncluded": true
+      },
+      "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
+      "scrapedAt": "2026-11-09T13:01:11.539Z"
+    },
+    {
+      "id": "indiecampers_milanbergamo_to_lisbon_activestandards_nov10nov15",
+      "provider": "indiecampers",
+      "providerName": "Indie Campers",
+      "fleetPartner": null,
+      "origin": {
+        "city": "Milan Bergamo",
+        "countryCode": "IT",
+        "countryName": "Italy"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "Nov 10 \u2013 Nov 15",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Indie Campers Active Standard Select",
+        "categoryName": "Active Standard Select",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": "Unlimited",
+        "extraKmCostEuro": 0,
+        "fuelIncluded": false,
+        "ferryIncluded": false,
+        "ferryNotes": null,
+        "essentialKitIncluded": true
+      },
+      "bookingUrl": "https://indiecampers.com/discover/en-us/deals/europe",
+      "scrapedAt": "2026-11-09T13:01:11.539Z"
+    },
+    {
+      "id": "imoova_RLC129927",
+      "provider": "imoova",
+      "providerName": "Imoova",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Vienna",
+        "countryCode": "AT",
+        "countryName": "Austria"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "10th Nov 2026",
+        "deliverBy": "15th Nov 2026",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Eu Active Long 2 Auto Select",
+        "categoryName": "Eu Active Long 2 Auto Select",
+        "category": "campervan",
+        "seats": 2,
+        "sleeping": 2
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "fuelNotes": null,
+        "ferryIncluded": false,
+        "ferryNotes": null
+      },
+      "bookingUrl": "https://www.imoova.com/relocations/europe/vienna-to-lisbon/RLC129927",
+      "scrapedAt": "2026-11-09T13:01:11.460Z"
+    },
+    {
+      "id": "imoova_RLC129937",
+      "provider": "imoova",
+      "providerName": "Imoova",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Bologna",
+        "countryCode": "IT",
+        "countryName": "Italy"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "10th Nov 2026",
+        "deliverBy": "15th Nov 2026",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Eu Active Poptop 4 Manual Base",
+        "categoryName": "Eu Active Poptop 4 Manual Base",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "fuelNotes": null,
+        "ferryIncluded": false,
+        "ferryNotes": null
+      },
+      "bookingUrl": "https://www.imoova.com/relocations/europe/bologna-to-lisbon/RLC129937",
+      "scrapedAt": "2026-11-09T13:01:11.461Z"
+    },
+    {
+      "id": "imoova_RLC129935",
+      "provider": "imoova",
+      "providerName": "Imoova",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Milan",
+        "countryCode": "IT",
+        "countryName": "Italy"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "10th Nov 2026",
+        "deliverBy": "15th Nov 2026",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Eu Active Poptop 4 Manual Base",
+        "categoryName": "Eu Active Poptop 4 Manual Base",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "fuelNotes": null,
+        "ferryIncluded": false,
+        "ferryNotes": null
+      },
+      "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129935",
+      "scrapedAt": "2026-11-09T13:01:11.461Z"
+    },
+    {
+      "id": "imoova_RLC129938",
+      "provider": "imoova",
+      "providerName": "Imoova",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Milan",
+        "countryCode": "IT",
+        "countryName": "Italy"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal"
+      },
+      "dates": {
+        "earliestDeparture": "10th Nov 2026",
+        "deliverBy": "15th Nov 2026",
+        "durationDays": 5,
+        "durationHours": 120
+      },
+      "vehicle": {
+        "model": "Eu Active Standard 2 Auto Select",
+        "categoryName": "Eu Active Standard 2 Auto Select",
+        "category": "campervan",
+        "seats": 2,
+        "sleeping": 2
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "per_day"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "fuelNotes": null,
+        "ferryIncluded": false,
+        "ferryNotes": null
+      },
+      "bookingUrl": "https://www.imoova.com/relocations/europe/milan-to-lisbon/RLC129938",
+      "scrapedAt": "2026-11-09T13:01:11.462Z"
+    },
+    {
+      "id": "driiveme_sainttienne_to_metznord_citymanual4seat_05112026",
+      "provider": "driiveme",
+      "providerName": "Driiveme",
+      "fleetPartner": "Europcar",
+      "origin": {
+        "city": "Saint-\u00c9tienne",
+        "countryCode": "EU",
+        "countryName": "Europe",
+        "postalCode": "42000"
+      },
+      "destination": {
+        "city": "Metz (Nord)",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "57110"
+      },
+      "dates": {
+        "earliestDeparture": "05/11/2026",
+        "deliverBy": "09/11/2026",
+        "durationDays": 2,
+        "durationHours": 48,
+        "offerEnds": "09/11/2026 15:00"
+      },
+      "vehicle": {
+        "model": "City , Manual , 4 seats",
+        "categoryName": "City",
+        "category": "other",
+        "seats": 4
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
+      "scrapedAt": "2026-11-09T13:01:11.760Z"
+    },
+    {
+      "id": "driiveme_parisaroport_to_lyongaredelyonpartdieu_carautomatic5se_05112026",
+      "provider": "driiveme",
+      "providerName": "Driiveme",
+      "fleetPartner": "Europcar",
+      "origin": {
+        "city": "ParisA\u00e9roport",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "95700"
+      },
+      "destination": {
+        "city": "Lyon (Gare De Lyon Part-Dieu)",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "69003"
+      },
+      "dates": {
+        "earliestDeparture": "05/11/2026",
+        "deliverBy": "09/11/2026",
+        "durationDays": 2,
+        "durationHours": 48,
+        "offerEnds": "09/11/2026 16:00"
+      },
+      "vehicle": {
+        "model": "Car , Automatic , 5 seats",
+        "categoryName": "Car",
+        "category": "car",
+        "seats": 5
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
+      "scrapedAt": "2026-11-09T13:01:11.761Z"
+    },
+    {
+      "id": "driiveme_parisaroport_to_lyonlyonairport_carautomatic5se_05112026",
+      "provider": "driiveme",
+      "providerName": "Driiveme",
+      "fleetPartner": "Europcar",
+      "origin": {
+        "city": "ParisA\u00e9roport",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "95700"
+      },
+      "destination": {
+        "city": "Lyon Lyon Airport",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "69125"
+      },
+      "dates": {
+        "earliestDeparture": "05/11/2026",
+        "deliverBy": "09/11/2026",
+        "durationDays": 2,
+        "durationHours": 48,
+        "offerEnds": "09/11/2026 16:00"
+      },
+      "vehicle": {
+        "model": "Car , Automatic , 5 seats",
+        "categoryName": "Car",
+        "category": "car",
+        "seats": 5
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
+      "scrapedAt": "2026-11-09T13:01:11.761Z"
+    },
+    {
+      "id": "driiveme_valenceest_to_brest_citymanual5seat_09112026",
+      "provider": "driiveme",
+      "providerName": "Driiveme",
+      "fleetPartner": "Europcar",
+      "origin": {
+        "city": "Valence (Est)",
+        "countryCode": "EU",
+        "countryName": "Europe",
+        "postalCode": "26300"
+      },
+      "destination": {
+        "city": "Brest",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "29200"
+      },
+      "dates": {
+        "earliestDeparture": "09/11/2026",
+        "deliverBy": "09/11/2026",
+        "durationDays": 2,
+        "durationHours": 48,
+        "offerEnds": "09/11/2026 16:30"
+      },
+      "vehicle": {
+        "model": "City , Manual , 5 seats",
+        "categoryName": "City",
+        "category": "other",
+        "seats": 5
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": null,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://www.driiveme.com/en-GB/search-rental.html",
+      "scrapedAt": "2026-11-09T13:01:11.762Z"
+    },
+    {
+      "id": "ugoki_537216",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "Sixt",
+      "origin": {
+        "city": "Kassel",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "Holl\u00e4ndische Str. 207c",
+        "stationCode": "18152",
+        "coordinates": {
+          "latitude": 51.343307,
+          "longitude": 9.477139
+        }
+      },
+      "destination": {
+        "city": "Hildesheim",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "street": "Steuerwalder Str. 108",
+        "stationCode": "20995",
+        "coordinates": {
+          "latitude": 52.16568,
+          "longitude": 9.942546
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-10",
+        "latestPickup": "2026-11-10",
+        "availablePickupDates": [
+          "2026-11-10"
+        ],
+        "pickupRange": "2026-11-10",
+        "deliverBy": "2026-11-11",
+        "durationDays": 1,
+        "durationHours": 2,
+        "dateHint": "2026-11-10 (1d)"
+      },
+      "vehicle": {
+        "category": "other",
+        "model": "Audi Q6 or similar",
+        "seats": 5,
+        "transmission": "manual",
+        "imageUrl": "https://production.flipcar.app/images/api/v1/vehicle/unknown.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 300,
+        "deductible": 1850
+      },
+      "inclusions": {
+        "freeKm": 141,
+        "extraKmCost": null,
+        "fuelIncluded": true,
+        "insuranceIncluded": true,
+        "perks": [
+          "1st Tank Included",
+          "141km"
+        ]
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.965Z",
+      "metadata": {
+        "transferId": 537216,
+        "minimumAge": 21,
+        "coinsWin": 5,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": false
+      }
+    },
+    {
+      "id": "ugoki_537230",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "Sixt",
+      "origin": {
+        "city": "Rostock",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "Gerhart-Hauptmann-Str. 13",
+        "stationCode": "20958",
+        "coordinates": {
+          "latitude": 54.07921,
+          "longitude": 12.132128
+        }
+      },
+      "destination": {
+        "city": "Parchim",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "street": "Flughafenstra\u00dfe",
+        "stationCode": "62956",
+        "coordinates": {
+          "latitude": 53.4321,
+          "longitude": 11.778509
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-10",
+        "latestPickup": "2026-11-10",
+        "availablePickupDates": [
+          "2026-11-10"
+        ],
+        "pickupRange": "2026-11-10",
+        "deliverBy": "2026-11-11",
+        "durationDays": 1,
+        "durationHours": 2,
+        "dateHint": "2026-11-10 (1d)"
+      },
+      "vehicle": {
+        "category": "other",
+        "model": "VW TAYRON OFF or similar",
+        "seats": 5,
+        "transmission": "manual",
+        "imageUrl": "https://assets.production.flipcar.app/car_images/VW-TRoc.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 500,
+        "deductible": 1850
+      },
+      "inclusions": {
+        "freeKm": 136,
+        "extraKmCost": null,
+        "fuelIncluded": true,
+        "insuranceIncluded": true,
+        "perks": [
+          "1st Tank Included",
+          "136km"
+        ]
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.970Z",
+      "metadata": {
+        "transferId": 537230,
+        "minimumAge": 21,
+        "coinsWin": 20,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": false
+      }
+    },
+    {
+      "id": "ugoki_537339",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "Sixt",
+      "origin": {
+        "city": "Lingen",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "street": "Bernardstrasse 33-35",
+        "stationCode": "17668",
+        "coordinates": {
+          "latitude": 52.529747,
+          "longitude": 7.342156
+        }
+      },
+      "destination": {
+        "city": "Rehden",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "street": "Dickeler Strasse 42",
+        "stationCode": "66828",
+        "coordinates": {
+          "latitude": 52.62451,
+          "longitude": 8.48077
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-09",
+        "latestPickup": "2026-11-10",
+        "availablePickupDates": [
+          "2026-11-09",
+          "2026-11-10"
+        ],
+        "pickupRange": "2026-11-09 \u2192 2026-11-10",
+        "deliverBy": "2026-11-11",
+        "durationDays": 1,
+        "durationHours": 2,
+        "dateHint": "2026-11-09 \u2192 2026-11-10 (1d)"
+      },
+      "vehicle": {
+        "category": "car",
+        "model": "VW GOLF or similar",
+        "seats": 5,
+        "transmission": "manual",
+        "imageUrl": "https://assets.production.flipcar.app/car_images/vw_kombi.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 300,
+        "deductible": 1850
+      },
+      "inclusions": {
+        "freeKm": 88,
+        "extraKmCost": null,
+        "fuelIncluded": true,
+        "insuranceIncluded": true,
+        "perks": [
+          "1st Tank Included",
+          "88km"
+        ]
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.970Z",
+      "metadata": {
+        "transferId": 537339,
+        "minimumAge": 21,
+        "coinsWin": 5,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": false
+      }
+    },
+    {
+      "id": "ugoki_537359",
+      "provider": "ugoki",
+      "providerName": "Ugoki",
+      "fleetPartner": "Sixt",
+      "origin": {
+        "city": "Aachen",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "street": "Dennewartstrasse 27",
+        "stationCode": "17771",
+        "coordinates": {
+          "latitude": 50.78013,
+          "longitude": 6.104207
+        }
+      },
+      "destination": {
+        "city": "L\u00e4hden",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "street": "Dr.-Eberle-Stra\u00dfe 6",
+        "stationCode": "100125",
+        "coordinates": {
+          "latitude": 52.7546367,
+          "longitude": 7.577032699999999
+        }
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-10",
+        "latestPickup": "2026-11-10",
+        "availablePickupDates": [
+          "2026-11-10"
+        ],
+        "pickupRange": "2026-11-10",
+        "deliverBy": "2026-11-11",
+        "durationDays": 1,
+        "durationHours": 3,
+        "dateHint": "2026-11-10 (1d)"
+      },
+      "vehicle": {
+        "category": "other",
+        "model": "Peugeot 3008 or similar",
+        "seats": 5,
+        "transmission": "manual",
+        "imageUrl": "https://assets.production.flipcar.app/car_images/peugeot.png"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "deposit": 300,
+        "deductible": 1850
+      },
+      "inclusions": {
+        "freeKm": 289,
+        "extraKmCost": null,
+        "fuelIncluded": true,
+        "insuranceIncluded": true,
+        "perks": [
+          "1st Tank Included",
+          "289km"
+        ]
+      },
+      "bookingUrl": "https://ugoki.com",
+      "scrapedAt": "2026-11-09T13:01:14.972Z",
+      "metadata": {
+        "transferId": 537359,
+        "minimumAge": 21,
+        "coinsWin": 5,
+        "bookingBufferSeconds": 3600,
+        "hasRemoteUnlock": false
+      }
+    },
+    {
+      "id": "movacar_260111",
+      "provider": "movacar",
+      "providerName": "Movacar",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Alcal\u00e1 de Henares",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "postalCode": "28806",
+        "street": "Calle Brasil, 9C, 28806 Alcala de Henares, Madrid",
+        "stationCode": "IC116"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "postalCode": "2625",
+        "street": "Solvay Business Park, R. Eng. Clment Dumoulin Armazm J",
+        "stationCode": "IC112"
+      },
+      "dates": {
+        "earliestDeparture": "2026-10-23T04:00:00Z",
+        "latestPickup": "2026-11-12T20:00:00Z",
+        "deliverBy": "2026-11-15T20:00:00Z",
+        "durationDays": 3,
+        "durationHours": 72
+      },
+      "vehicle": {
+        "model": "Fiat Ducato",
+        "categoryName": "Active Standard Select",
+        "category": "van",
+        "seats": 4,
+        "sleeping": 2,
+        "fuelType": "crowd_vehicle_fuel_type_1",
+        "gearType": "crowd_vehicle_gear_type_0"
+      },
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": 825,
+        "extraKmCostEuro": 0.5,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://movacar.com/de-DE/offers/260111",
+      "scrapedAt": "2026-11-09T13:01:16.033Z"
+    },
+    {
+      "id": "movacar_260356",
+      "provider": "movacar",
+      "providerName": "Movacar",
+      "fleetPartner": "Indie Campers",
+      "origin": {
+        "city": "Val\u00e8ncia",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "postalCode": "46138",
+        "street": "Carrer Massamagrell, 36, Rafelbunyol",
+        "stationCode": "IC120"
+      },
+      "destination": {
+        "city": "Lisbon",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "postalCode": "2625",
+        "street": "Solvay Business Park, R. Eng. Clment Dumoulin Armazm J",
+        "stationCode": "IC112"
+      },
+      "dates": {
+        "earliestDeparture": "2026-10-23T04:00:00Z",
+        "latestPickup": "2026-11-11T20:00:00Z",
+        "deliverBy": "2026-11-15T20:00:00Z",
+        "durationDays": 4,
+        "durationHours": 96
+      },
+      "vehicle": {
+        "model": "Fiat Ducato",
+        "categoryName": "Active Poptop Select",
+        "category": "campervan",
+        "seats": 4,
+        "sleeping": 4,
+        "fuelType": "crowd_vehicle_fuel_type_1",
+        "gearType": "crowd_vehicle_gear_type_0"
+      },
+      "price": {
+        "amount": 99,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": 1081,
+        "extraKmCostEuro": 0.5,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://movacar.com/de-DE/offers/260356",
+      "scrapedAt": "2026-11-09T13:01:16.033Z"
+    },
+    {
+      "id": "movacar_260716",
+      "provider": "movacar",
+      "providerName": "Movacar",
+      "fleetPartner": "Roadsurfer",
+      "origin": {
+        "city": "Dagneux (bei Lyon)",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "01120",
+        "street": "1201 Avenue des Pr\u00e9 Seigneurs",
+        "stationCode": "RS25"
+      },
+      "destination": {
+        "city": "Dormagen (bei D\u00fcsseldorf)",
+        "countryCode": "DE",
+        "countryName": "Germany",
+        "postalCode": "41539",
+        "street": "Norfer Str. 6",
+        "stationCode": "RS102"
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-08T23:00:00Z",
+        "latestPickup": "2026-11-14T22:59:59Z",
+        "deliverBy": "2026-11-16T22:59:59Z",
+        "durationDays": 2,
+        "durationHours": 48
+      },
+      "vehicle": {
+        "model": "ROAD HOUSE Westfalia Eliseo C540 - Fiat Ducato 8",
+        "categoryName": "ROAD HOUSE",
+        "category": "van",
+        "seats": 4,
+        "sleeping": 4,
+        "fuelType": "crowd_vehicle_fuel_type_1",
+        "gearType": "crowd_vehicle_gear_type_2"
+      },
+      "price": {
+        "amount": 1,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": 1000,
+        "extraKmCostEuro": 0.5,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://movacar.com/de-DE/offers/260716",
+      "scrapedAt": "2026-11-09T13:01:16.033Z"
+    },
+    {
+      "id": "movacar_260995",
+      "provider": "movacar",
+      "providerName": "Movacar",
+      "fleetPartner": "Roadsurfer",
+      "origin": {
+        "city": "Saint-Alban (bei Toulouse)",
+        "countryCode": "FR",
+        "countryName": "France",
+        "postalCode": "Toulouse",
+        "street": "30, Rue du Rempart",
+        "stationCode": "RS69"
+      },
+      "destination": {
+        "city": "Marburg",
+        "countryCode": "DE",
+        "countryName": "DE",
+        "postalCode": "35039",
+        "street": "Aff\u00f6llerstra\u00dfe 90B",
+        "stationCode": "RS50"
+      },
+      "dates": {
+        "earliestDeparture": "2026-11-08T23:00:00Z",
+        "latestPickup": "2026-11-12T22:59:59Z",
+        "deliverBy": "2026-11-16T22:59:59Z",
+        "durationDays": 4,
+        "durationHours": 96
+      },
+      "vehicle": {
+        "model": "BEACH HOSTEL VW California Beach",
+        "categoryName": "BEACH HOSTEL",
+        "category": "campervan",
+        "seats": 5,
+        "sleeping": 5,
+        "fuelType": "crowd_vehicle_fuel_type_1",
+        "gearType": "crowd_vehicle_gear_type_1"
+      },
+      "price": {
+        "amount": 129,
+        "currency": "EUR",
+        "rateType": "total"
+      },
+      "inclusions": {
+        "freeKm": 1800,
+        "extraKmCostEuro": 0.5,
+        "fuelIncluded": false,
+        "ferryIncluded": false
+      },
+      "bookingUrl": "https://movacar.com/de-DE/offers/260995",
+      "scrapedAt": "2026-11-09T13:01:16.033Z"
+    }
+  ]
+}

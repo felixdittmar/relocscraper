@@ -1,1 +1,0 @@
-bin/reloc.mjs
